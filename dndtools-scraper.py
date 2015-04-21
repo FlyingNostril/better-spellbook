@@ -25,11 +25,12 @@ begin_adding = False
 for line in index_text:
     if begin_adding == True:
         if "* ## " in line:
+            spell_text = "###BEGIN_SPELL###\n" + spell_text 
             spell_text = spell_text + line[line.find("##")+3:] + "\n"
         elif "(" in line[:1] and ")" in line[:-1]:
+            pass
            # print("Ommitting source material")
-            spell_text = line[1:-3] + spell_text + "\n"
-            spell_text = "###BEGIN_SPELL###\n" + spell_text 
+#            spell_text = line[1:-3] + spell_text + "\n"
         elif "###" in line:
             spell_text = spell_text + "###END_SPELL###\n"
             break

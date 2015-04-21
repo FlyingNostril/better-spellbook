@@ -1,7 +1,6 @@
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 196
-Acid Fog
 
+Acid Fog
 
   
 Conjuration (Creation) [Acid]  
@@ -28,9 +27,8 @@ powdered animal hoof.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 196
-Acid Splash
 
+Acid Splash
 
   
 Conjuration (Creation) [Acid]  
@@ -50,16 +48,13 @@ attack to hit your target. The orb deals 1d3 points of acid damage.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-SpC) 2, Courage (CW) 2, Revered Ancestor (FE) 2, Courage (SpC) 2###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 196
-Aid
 
+Aid
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
 Level: Cleric 2, Adept 2, Knight of the Chalice 2, Justiciar of Taiia 2,
 Soldier of Light 2, Apostle of Peace 2, Urban Adept 2, Good 2, Luck 2, Arborea
-
 Components: V, S, DF,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -76,9 +71,8 @@ of 1d8+10 temporary hit points at caster level 10th).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 196
-Air Walk
 
+Air Walk
 
   
 Transmutation [Air]  
@@ -118,10 +112,8 @@ trick; see page 74) with one week of work and a DC 25 Handle Animal check.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-determined by you at the time of casting) does not set off the alarm. ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 197
-Alarm
 
+Alarm
 
   
 Abjuration  
@@ -140,7 +132,6 @@ Spell Resistance: No
 
 Alarm sounds a mental or audible alarm each time a creature of Tiny or larger
 size enters the warded area or touches it. A creature that speaks the password
-
 decide at the time of casting whether the alarm will be mental or audible.
 
 Mental Alarm: A mental alarm alerts you (and only you) so long as you remain
@@ -164,9 +155,8 @@ Arcane Focus: A tiny bell and a piece of very fine silver wire.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 197
-Align Weapon
 
+Align Weapon
 
   
 Transmutation [see text]  
@@ -195,9 +185,8 @@ evil, lawful, or chaotic spell, respectively.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 197
-Alter Self
 
+Alter Self
 
   
 Transmutation  
@@ -276,9 +265,8 @@ equipment that is separated from the whole reverts to its true form.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 197
-Analyze Dweomer
 
+Analyze Dweomer
 
   
 Divination  
@@ -315,9 +303,8 @@ gemstone must be worth at least 1,500 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 198
-Animal Growth
 
+Animal Growth
 
   
 Transmutation  
@@ -369,9 +356,8 @@ casting.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 198
-Animal Messenger
 
+Animal Messenger
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -412,9 +398,8 @@ Material Component: A morsel of food the animal likes.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 198
-Animal Shapes
 
+Animal Shapes
 
   
 Transmutation  
@@ -445,9 +430,8 @@ at 20th level.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 198
-Animal Trance
 
+Animal Trance
 
   
 Enchantment (Compulsion) [Mind-Affecting, Sonic]  
@@ -477,10 +461,8 @@ allowed a saving throw; an animal not trained to attack or guard is not.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-A destroyed skeleton or zombie can't be animated agai###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 198
-Animate Dead
 
+Animate Dead
 
   
 Necromancy [Evil]  
@@ -500,7 +482,6 @@ This spell turns the bones or bodies of dead creatures into undead skeletons
 or zombies that follow your spoken commands. The undead can follow you, or
 they can remain in an area and attack any creature (or just a specific kind of
 creature) entering the place. They remain animated until they are destroyed.
-
 
 Regardless of the type of undead you create with this spell, you can't create
 more HD of undead than twice your caster level with a single casting of
@@ -535,15 +516,12 @@ shells.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-ECS) 6###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 199
-Animate Objects
 
+Animate Objects
 
   
 Transmutation  
 Level: Urban Druid 5, Bard 6, Cleric 6, Jester 6, Chaos 6, Limbo (SpC) 6, Life
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: Medium (100 ft. + 10 ft./level)  
@@ -573,9 +551,8 @@ Animate objects can be made permanent with a permanency spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 199
-Animate Plants
 
+Animate Plants
 
   
 Transmutation  
@@ -615,17 +592,13 @@ hour per caster level.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-"uncoil", and so forth). You can give one command each round as a m###BEGIN_SPELL###
-SpC) 1, Artifice (DD) 1, Artifice (ECS) 1, Craft (FRCS) 1###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 199
-Animate Rope
 
+Animate Rope
 
   
 Transmutation  
 Level: Bard 1, Spellthief 1, Magewright 1, Urban Druid 1, Jester 1, Sha'ir 1,
 Wu Jen 1, Vigilante 1, Wizard 1, Sorcerer 1, Consecrated Harrier 1, Craft
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: Medium (100 ft. + 10 ft./level)  
@@ -643,7 +616,6 @@ half.
 
 The possible commands are "coil" (form a neat, coiled stack), "coil and knot",
 "loop", "loop and knot", "tie and knot", and the opposites of all of the above
-
 action, as if directing an active spell.
 
 The rope can enwrap only a creature or an object within 1 foot of it--it does
@@ -666,9 +638,8 @@ The spell cannot animate objects carried or worn by a creature.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 199
-Antilife Shell
 
+Antilife Shell
 
   
 Abjuration  
@@ -696,10 +667,8 @@ barrier (see Abjuration, page 172).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-and a masterwork sword at that). The spell has no effect on golems and ot###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 200
-Antimagic Field
 
+Antimagic Field
 
   
 Abjuration  
@@ -739,7 +708,6 @@ conjuration itself is no longer in effect, only its result).
 A normal creature (a normally encountered griffon rather than a conjured one,
 for instance) can enter the area, as can normal missiles. Furthermore, while a
 magic sword does not function magically within the area, it is still a sword
-
 constructs that are imbued with magic during their creation process and are
 thereafter self-supporting (unless they have been summoned, in which case they
 are treated like any other summoned creatures). Elementals, corporeal undead,
@@ -762,9 +730,8 @@ Arcane Material Component: A pinch of powdered iron or iron filings.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 200
-Antipathy
 
+Antipathy
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -802,9 +769,8 @@ Arcane Material Component: A lump of alum soaked in vinegar.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 200
-Antiplant Shell
 
+Antiplant Shell
 
   
 Abjuration  
@@ -827,10 +793,8 @@ Abjuration, page 172).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-primarily looking at the floor) or 10 feet per round (100 feet per minute)###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 200
-Arcane Eye
 
+Arcane Eye
 
   
 Divination (Scrying)  
@@ -850,7 +814,6 @@ You create an invisible magical sensor that sends you visual information. You
 can create the arcane eye at any point you can see, but it can then travel
 outside your line of sight without hindrance. An arcane eye travels at 30 feet
 per round (300 feet per minute) if viewing an area ahead as a human would
-
 examining the ceiling and walls as well as the floor ahead. It sees exactly as
 you would see if you were there. The eye can travel in any direction as long
 as the spell lasts. Solid barriers block its passage, but it can pass through
@@ -865,9 +828,8 @@ Material Component: A bit of bat fur.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 200
-Arcane Lock
 
+Arcane Lock
 
   
 Abjuration  
@@ -895,9 +857,8 @@ Material Component: Gold dust worth 25 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 201
-Arcane Mark
 
+Arcane Mark
 
   
 Universal  
@@ -930,9 +891,8 @@ summons on the same object (see that spell description for details).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 201
-Arcane Sight
 
+Arcane Sight
 
   
 Divination  
@@ -973,9 +933,8 @@ Arcane sight can be made permanent with a permanency spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 201
-Arcane Sight, Greater
 
+Arcane Sight, Greater
 
   
 Divination  
@@ -1000,9 +959,8 @@ spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 201
-Astral Projection
 
+Astral Projection
 
   
 Necromancy [Ectomancy]  
@@ -1059,11 +1017,8 @@ Material Component: A jacinth worth at least 1,000 gp, plus a silver bar worth
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-for NPCs). This use of atonement simply offers a believable way fo###BEGIN_SPELL###
-requiring you to expend 500 XP) in order to expunge the subject's burd###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 201
-Atonement
 
+Atonement
 
   
 Abjuration  
@@ -1084,7 +1039,6 @@ right its misdeeds. If the atoning creature committed the evil act unwittingly
 or under some form of compulsion, atonement operates normally at no cost to
 you. However, in the case of a creature atoning for deliberate misdeeds and
 acts of a knowing and willful nature, you must intercede with your deity
-
 Many casters first assign a subject of this sort a quest (see geas/quest) or
 similar penance to determine whether the creature is truly contrite before
 casting the atonement spell on its behalf.
@@ -1121,7 +1075,6 @@ on any creature that has performed acts against its alignment, whether those
 acts are evil, good, chaotic, or lawful.
 
 Note: Normally, changing alignment is up to the player (for PCs) or the DM
-
 character to change his or her alignment drastically, suddenly, and
 definitively.
 
@@ -1137,15 +1090,12 @@ deliberate acts, the cost to you is 500 XP per casting (see above).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-RD) 2, Oracle (CD) 2, Dream (CD) 2, Fate (CW) 2, Planning (CW) 2, Initiate###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 202
-Augury
 
+Augury
 
   
 Divination  
 Level: Cleric 2, Savant 2 (Divine), Magewright 2, Apostle of Peace 2, Destiny
-
 Amaunator (Feat) 2, Insight (DCS) 2, Divination (DF) 2,  
 Components: V, S, M, AF,  
 Casting Time: 1 minute  
@@ -1188,9 +1138,8 @@ value.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 202
-Awaken
 
+Awaken
 
   
 Transmutation  
@@ -1230,10 +1179,8 @@ XP Cost: 250 XP.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-such as a dog, lizard, monkey, or toad). The subject takes on all ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 202
-Baleful Polymorph
 
+Baleful Polymorph
 
   
 Transmutation  
@@ -1249,7 +1196,6 @@ Spell Resistance: Yes
   
 
 You change the subject into a Small or smaller animal of no more than 1 HD
-
 statistics and special abilities of an average member of the new form in place
 of its own except as follows:
 
@@ -1284,9 +1230,8 @@ the spell's effect).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 203
-Bane
 
+Bane
 
   
 Enchantment (Compulsion) [Fear, Mind-Affecting]  
@@ -1311,9 +1256,8 @@ Bane counters and dispels bless.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 203
-Banishment
 
+Banishment
 
   
 Abjuration  
@@ -1354,9 +1298,8 @@ above).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 203
-Barkskin
 
+Barkskin
 
   
 Transmutation  
@@ -1385,9 +1328,8 @@ much as a character wearing only normal clothing has an armor bonus of +0.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 203
-Bear's Endurance
 
+Bear's Endurance
 
   
 Transmutation  
@@ -1418,9 +1360,8 @@ to normal. They are not lost first as temporary hit points are (see page 146).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 203
-Bear's Endurance, Mass
 
+Bear's Endurance, Mass
 
   
 Transmutation  
@@ -1441,9 +1382,8 @@ multiple creatures.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 203
-Bestow Curse
 
+Bestow Curse
 
   
 Necromancy  
@@ -1477,9 +1417,8 @@ Bestow curse counters remove curse.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 203
-Bigby's Clenched Fist
 
+Bigby's Clenched Fist
 
   
 Evocation [Force]  
@@ -1518,9 +1457,8 @@ Arcane Focus: A leather glove.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 203
-Bigby's Crushing Hand
 
+Bigby's Crushing Hand
 
   
 Evocation [Force]  
@@ -1558,9 +1496,8 @@ Arcane Focus: A glove of snakeskin.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 204
-Bigby's Forceful Hand
 
+Bigby's Forceful Hand
 
   
 Evocation [Force]  
@@ -1591,9 +1528,8 @@ Focus: A sturdy glove made of leather or heavy cloth.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 204
-Bigby's Grasping Hand
 
+Bigby's Grasping Hand
 
   
 Evocation [Force]  
@@ -1629,9 +1565,8 @@ Arcane Focus: A leather glove.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 204
-Bigby's Interposing Hand
 
+Bigby's Interposing Hand
 
   
 Evocation [Force]  
@@ -1674,10 +1609,8 @@ Focus: A soft glove.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-cost 500 gp), the spell requires opals worth at least 500 gp for each HD###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 204
-Binding
 
+Binding
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -1774,16 +1707,14 @@ rarest sort (for slumber bindings), a bell jar of the finest crystal, and the
 like.
 
 In addition to the specially made props suited to the specific type of binding
-
 the target and a vellum depiction or carved statuette of the subject to be
 captured.
 
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 205
-Blade Barrier
 
+Blade Barrier
 
   
 Evocation [Force]  
@@ -1815,9 +1746,8 @@ against attacks made through it.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 205
-Blasphemy
 
+Blasphemy
 
   
 Evocation [Evil, Sonic]  
@@ -1867,18 +1797,13 @@ Creatures whose Hit Dice exceed your caster level are unaffected by blasphemy.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-BoED) 1, Family 1, Community (CD) 1, Community (DCS) 1, Community (DF)###BEGIN_SPELL###
-Water), Soldier of Light 1, Savant 1 (Divine), Death Delver 1, Knight of ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 205
-Bless
 
+Bless
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
 Level: Cleric 1, Champion of Gwynharwyf 1, Apostle of Peace 1, Shugenja 1
-
 Weave 1, Vassal of Bahamut 1, Adept 1, Paladin 1, Urban Adept 1, Community
-
 Community (DD) 1, Community (ECS) 1,  
 Components: V, S, DF,  
 Casting Time: 1 standard action  
@@ -1897,9 +1822,8 @@ Bless counters and dispels bane.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 205
-Bless Water
 
+Bless Water
 
   
 Transmutation [Good]  
@@ -1922,18 +1846,14 @@ Material Component: 5 pounds of powdered silver (worth 25 gp).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-though the spell doesn't grant an actual enhancement bonus). The weapon a###BEGIN_SPELL###
-DF) 2, Glory (DD) 2, Glory (Dr) 2###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 205
-Bless Weapon
 
+Bless Weapon
 
   
 Transmutation  
 Level: Paladin 1, Slayer of Domiel 1, Vassal of Bahamut 1, Knight of the Weave
 1, Knight of the Chalice 1, Soldier of Light 1, Champion of Gwynharwyf 1,
 Initiate of Anhur (Feat) 1, Initiate of Torm (Feat) 1 (cleric only), Glory
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -1946,7 +1866,6 @@ Spell Resistance: No
 This transmutation makes a weapon strike true against evil foes. The weapon is
 treated as having a +1 enhancement bonus for the purpose of bypassing the
 damage reduction of evil creatures or striking evil incorporeal creatures
-
 becomes good, which means it can bypass the damage reduction of certain
 creatures, particularly evil outsiders. (This effect overrides and suppresses
 any other alignment the weapon might have). Individual arrows or bolts can be
@@ -1961,9 +1880,8 @@ as a keen weapon or a vorpal sword.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 206
-Blight
 
+Blight
 
   
 Necromancy  
@@ -1987,9 +1905,8 @@ This spell has no effect on the soil or surrounding plant life.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 206
-Blindness/Deafness
 
+Blindness/Deafness
 
   
 Necromancy  
@@ -2012,10 +1929,8 @@ as you choose.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-for concealment). If the attacker can see invisible creatures, the m###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 206
-Blink
 
+Blink
 
   
 Transmutation  
@@ -2037,7 +1952,6 @@ Blinking has several effects, as follows.
 Physical attacks against you have a 50% miss chance, and the Blind-Fight feat
 doesn't help opponents, since you're ethereal and not merely invisible. If the
 attack is capable of striking ethereal creatures, the miss chance is only 20%
-
 chance is also only 20%. (For an attacker who can both see and strike ethereal
 creatures, there is no miss chance). Likewise, your own attacks have a 20%
 miss chance, since you sometimes go ethereal just as you are about to strike.
@@ -2082,9 +1996,8 @@ objects as material.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 206
-Blur
 
+Blur
 
   
 Illusion (Glamer)  
@@ -2113,9 +2026,8 @@ fighting an unseen opponent carries penalties of its own; see page 151).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 207
-Break Enchantment
 
+Break Enchantment
 
   
 Abjuration  
@@ -2158,10 +2070,8 @@ recipient of the break enchantment spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-SpC) 2, Bestial (BoVD) 2, Fury (FC1) 2###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 207
-Bull's Strength
 
+Bull's Strength
 
   
 Transmutation  
@@ -2172,7 +2082,6 @@ Gwynharwyf 2, Wu Jen 2 (Earth), Death Delver 2, Duskblade 2, Druid 2, Paladin
 2, Sorcerer 2, Wizard 2, Adept 2, Disciple of Thrym 2, Runescarred Berserker
 2, Hunter of the Dead 2, Vassal of Bahamut 2, Knight of the Weave 2, Knight of
 the Chalice 2, Fatemaker 2, Urban Adept 2, Strength 2, Abyss (SpC) 2, Wrath
-
 Components: V, S, M, DF,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -2191,15 +2100,12 @@ Arcane Material Component: A few hairs, or a pinch of dung, from a bull.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-SpC) 6###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 207
-Bull's Strength, Mass
 
+Bull's Strength, Mass
 
   
 Transmutation  
 Level: Cleric 6, Druid 6, Sorcerer 6, Wizard 6, Sha'ir 6, Urban Druid 6, Abyss
-
 Components: V, S, M, DF,  
 Casting Time: 1 standard action  
 Range: Close (25 ft. + 5 ft./2 levels)  
@@ -2215,9 +2121,8 @@ creatures.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 207
-Burning Hands
 
+Burning Hands
 
   
 Evocation [Fire]  
@@ -2241,17 +2146,13 @@ round action.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-measured from your position at the time). Any creature in the target squ###BEGIN_SPELL###
-ECS) 3###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 207
-Call Lightning
 
+Call Lightning
 
   
 Evocation [Electricity]  
 Level: Druid 3, Urban Druid 3, Shugenja 3 (Fire), Durthan 3, Storm (SpC) 3,
 Windstorm (SpC) 3, Weather (CD) 3, Weather (DD) 3, Storm (DCS) 3, Weather
-
 Components: V, S,  
 Casting Time: 1 round  
 Range: Medium (100 ft. + 10 ft./level)  
@@ -2265,7 +2166,6 @@ Immediately upon completion of the spell, and once per round thereafter, you
 may call down a 5-foot-wide, 30-foot-long, vertical bolt of lightning that
 deals 3d6 points of electricity damage. The bolt of lightning flashes down in
 a vertical stroke at whatever target point you choose within the spell's range
-
 or in the path of the bolt is affected.
 
 You need not call a bolt of lightning immediately; other actions, even
@@ -2283,9 +2183,8 @@ This spell functions indoors or underground but not underwater.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 207
-Call Lightning Storm
 
+Call Lightning Storm
 
   
 Evocation [Electricity]  
@@ -2306,9 +2205,8 @@ and you may call a maximum of 15 bolts.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 207
-Calm Animals
 
+Calm Animals
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -2340,10 +2238,8 @@ threatened creatures.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-although they can defend themselves) or do anything destructive. ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 207
-Calm Emotions
 
+Calm Emotions
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -2363,7 +2259,6 @@ Spell Resistance: Yes
 This spell calms agitated creatures. You have no control over the affected
 creatures, but calm emotions can stop raging creatures from fighting or joyous
 ones from reveling. Creatures so affected cannot take violent actions
-
 aggressive action against or damage dealt to a calmed creature immediately
 breaks the spell on all calmed creatures.
 
@@ -2379,21 +2274,16 @@ meantime.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-SpC) 2, Halfling (SpC) 2, Celerity (CD) 2, Celerity (DF) 2###BEGIN_SPELL###
-Fire), Consecrated Harrier 2, Emissary of Barachiel 2, Vadalis Beastkeeper###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 208
-Cat's Grace
 
+Cat's Grace
 
   
 Transmutation  
 Level: Trapsmith 1, Assassin 2, Artificer 2, Gnome Artificer 2, Bladesinger 2,
 Celebrant of Sharess 2, Bard 2, Urban Ranger 2, Spellthief 2, Shugenja 2
-
 Urban Druid 2, Sha'ir 2, Wu Jen 2 (Fire), Druid 2, Ranger 2, Sorcerer 2,
 Wizard 2, Adept 2, Hoardstealer 2, Ebonmar Infiltrator 2, Knight of the Weave
 2, Fatemaker 2, Vigilante 2, Duskblade 2, Urban Adept 2, Celerity (SpC) 2, Elf
-
 Components: V, S, M,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -2412,9 +2302,8 @@ Material Component: A pinch of cat fur.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 208
-Cat's Grace, Mass
 
+Cat's Grace, Mass
 
   
 Transmutation  
@@ -2435,10 +2324,8 @@ creatures.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-FC1) 1###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 208
-Cause Fear
 
+Cause Fear
 
   
 Necromancy [Fear, Mind-Affecting]  
@@ -2447,7 +2334,6 @@ Slaughter 1, Hexblade 1, Jester 1, Death Master 1, Sha'ir 1, Death Delver 1,
 Duskblade 1, Vigilante 1, Disciple of Thrym 1, Adept 1, Dread Necromancer 1,
 Wizard 1, Sorcerer 1, Cleric 1, Shugenja 1 (Fire), Death 1, Blackwater (SW) 1,
 Abyss (SpC) 1, Orc (SpC) 1, Dragon Below (ECS) 1, Passion (ECS) 1, Entropy
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: Close (25 ft. + 5 ft./2 levels)  
@@ -2466,15 +2352,12 @@ Cause fear counters and dispels remove fear.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Fire), Air 6###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 208
-Chain Lightning
 
+Chain Lightning
 
   
 Evocation [Electricity]  
 Level: Duskblade 5, Sorcerer 6, Wizard 6, Warmage 6, Sha'ir 6, Shugenja 7
-
 Components: V, S, AF,  
 Casting Time: 1 standard action  
 Range: Long (400 ft. + 40 ft./level)  
@@ -2507,9 +2390,8 @@ silver pin for each of your caster levels.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 208
-Changestaff
 
+Changestaff
 
   
 Transmutation  
@@ -2545,10 +2427,8 @@ staff.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-not chaotic) creatures are harmed by the spe###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 208
-Chaos Hammer
 
+Chaos Hammer
 
   
 Evocation [Chaotic]  
@@ -2565,7 +2445,6 @@ Spell Resistance: Yes
 You unleash chaotic power to smite your enemies. The power takes the form of a
 multicolored explosion of leaping, ricocheting energy. Only lawful and neutral
 
-
 The spell deals 1d8 points of damage per two caster levels (maximum 5d8) to
 lawful creatures (or 1d6 points of damage per caster level, maximum 10d6, to
 lawful outsiders) and slows them for 1d6 rounds (see the slow spell). A
@@ -2578,9 +2457,8 @@ half again (down to one-quarter) with a successful Will save.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 208
-Charm Animal
 
+Charm Animal
 
   
 Enchantment (Charm) [Mind-Affecting]  
@@ -2602,10 +2480,8 @@ types.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-ECS) 5, Charm (FRCS) 5###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 209
-Charm Monster
 
+Charm Monster
 
   
 Enchantment (Charm) [Mind-Affecting]  
@@ -2613,7 +2489,6 @@ Level: Bard 3, Celebrant of Sharess 3, Hexblade 3 (Arcane), Emissary of
 Barachiel 3, Urban Druid 3, Wu Jen 4, Beguiler 4, Fatemaker 4, Death Master 4,
 Jester 4, Wizard 4, Sorcerer 4, Spellthief 4, Sha'ir 4, Temptation (FC1) 4,
 Elysium (SpC) 4, Greensinger Initiate 4, Charm (DD) 5, Bestial (BoVD) 5, Charm
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: Close (25 ft. + 5 ft./2 levels)  
@@ -2629,9 +2504,8 @@ restricted by creature type or size.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 209
-Charm Monster, Mass
 
+Charm Monster, Mass
 
   
 Enchantment (Charm) [Mind-Affecting]  
@@ -2655,9 +2529,8 @@ creature with too many HD.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 209
-Charm Person
 
+Charm Person
 
   
 Enchantment (Charm) [Mind-Affecting]  
@@ -2696,9 +2569,8 @@ pantomiming.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 209
-Chill Metal
 
+Chill Metal
 
   
 Transmutation [Cold]  
@@ -2754,9 +2626,8 @@ Chill metal counters and dispels heat metal.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 209
-Chill Touch
 
+Chill Touch
 
   
 Necromancy  
@@ -2785,9 +2656,8 @@ per caster level.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 209
-Circle of Death
 
+Circle of Death
 
   
 Necromancy [Death]  
@@ -2817,16 +2687,13 @@ of 500 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Arcane), Sha'ir 3, Beguiler 3, Vigilante 3, Hoardstealer 3, Wizard###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 209
-Clairaudience/Clairvoyance
 
+Clairaudience/Clairvoyance
 
   
 Divination (Scrying)  
 Level: Trapsmith 1, Bard 3, Emissary of Barachiel 3, Consecrated Harrier 3,
 Shugenja 3 (Air), Spellthief 3, Magewright 3, Court Herald 3, Savant 3
-
 Sorcerer 3, Urban Adept 3, Ebonmar Infiltrator 4, Drow (SpC) 2, Drow (FRCS) 2,
 Knowledge 3, Lust 3, Mentalism (PG) 3, Planning (CW) 3,  
 Components: V, S, AF, DF,  
@@ -2856,9 +2723,8 @@ Arcane Focus: A small horn (for hearing) or a glass eye (for seeing).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 210
-Cloak of Chaos
 
+Cloak of Chaos
 
   
 Abjuration [Chaotic]  
@@ -2898,9 +2764,8 @@ parchment from a chaotic text. The reliquary costs at least 500 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 210
-Clone
 
+Clone
 
   
 Necromancy  
@@ -2954,9 +2819,8 @@ Focus: Special laboratory equipment (cost 500 gp).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 210
-Cloudkill
 
+Cloudkill
 
   
 Conjuration (Creation)  
@@ -2994,10 +2858,8 @@ it be cast underwater.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Only living creatures are knocked unconsciou###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 210
-Color Spray
 
+Color Spray
 
   
 Illusion (Pattern) [Mind-Affecting]  
@@ -3020,7 +2882,6 @@ Dice.
 2 HD or less: The creature is unconscious, blinded, and stunned for 2d4
 rounds, then blinded and stunned for 1d4 rounds, and then stunned for 1 round.
 
-
 3 or 4 HD: The creature is blinded and stunned for 1d4 rounds, then stunned
 for 1 round.
 
@@ -3034,17 +2895,14 @@ yellow, and blue.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DCS) 1, Initiate of Torm (Feat) 1 (paladin only), Initiate of Horus-Re (Fe###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 211
-Command
 
+Command
 
   
 Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]  
 Level: Cleric 1, Apostle of Peace 1, Consecrated Harrier 1, Justiciar of Taiia
 1, Jester 1, Death Master 1, Thayan Slaver 1, Knight of the Weave 1, Adept 1,
 Urban Adept 1, Domination (CD) 1, Domination (DF) 1, Pact (SpC) 1, Mentalism
-
 1 (paladin or ranger only), Tyranny (CW) 1, Mechanus (SpC) 1, Pact (CD) 1,
 Domination (Dr) 1,  
 Components: V,  
@@ -3083,9 +2941,8 @@ automatically fails.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 211
-Command, Greater
 
+Command, Greater
 
   
 Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]  
@@ -3111,9 +2968,8 @@ command.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 211
-Command Plants
 
+Command Plants
 
   
 Transmutation  
@@ -3144,10 +3000,8 @@ exceed twice your level.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-regardless of its Intelligence) breaks the spe###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 211
-Command Undead
 
+Command Undead
 
   
 Necromancy  
@@ -3179,7 +3033,6 @@ obviously harmful orders.
 
 Any act by you or your apparent allies that threatens the commanded undead
 
-
 Your commands are not telepathic. The undead creature must be able to hear
 you.
 
@@ -3188,9 +3041,8 @@ Material Component: A shred of raw meat and a splinter of bone.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 211
-Commune
 
+Commune
 
   
 Divination  
@@ -3223,9 +3075,8 @@ XP Cost: 100 XP.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 211
-Commune With Nature
 
+Commune With Nature
 
   
 Divination  
@@ -3257,10 +3108,8 @@ dungeons and towns.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-CD) 1, Mind (DF) 1, Commerce 1, Meditation (ECS) 1, Mind (XPH) 1###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 212
-Comprehend Languages
 
+Comprehend Languages
 
   
 Divination  
@@ -3269,7 +3118,6 @@ Level: Bard 1, Death Master 1, Urban Druid 1, Court Herald 1, Merchant Prince
 Barachiel 1, Savant 1 (Arcane, Divine), Sha'ir 1, Cleric 1, Sorcerer 1, Wizard
 1, Adept 1, Ebonmar Infiltrator 1, Knight of the Weave 1, Vigilante 1,
 Beguiler 1, Wu Jen 1, Urban Adept 1, Herald (BoED) 1, Meditation (DCS) 1, Mind
-
 Components: V, S, M, DF,  
 Casting Time: 1 standard action  
 Range: Personal  
@@ -3297,9 +3145,8 @@ Arcane Material Component: A pinch of soot and a few grains of salt.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 212
-Cone of Cold
 
+Cone of Cold
 
   
 Evocation [Cold]  
@@ -3323,9 +3170,8 @@ Arcane Material Component: A very small crystal or glass cone.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 212
-Confusion
 
+Confusion
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -3372,9 +3218,8 @@ Arcane Material Component: A set of three nut shells.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 212
-Confusion, Lesser
 
+Confusion, Lesser
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -3392,9 +3237,8 @@ confusion spell to determine the exact effect on the subject.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 212
-Consecrate
 
+Consecrate
 
   
 Evocation [Good]  
@@ -3435,10 +3279,8 @@ dust, all of which must be sprinkled around the area.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-appropriate)  |  (DC 7/1 week)  |  (01--68)  |  (69--75)  |  (76--98)  |  ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 212
-Contact Other Plane
 
+Contact Other Plane
 
   
 Divination  
@@ -3476,7 +3318,6 @@ Plane Contacted  | Avoid Int/Cha Decrease  | True Answer  | Don't Know  | Lie
 | Random Answer  
 ---|---|---|---|---|---  
 Elemental Plane  |  DC 7/1 week  |  01--34  |  35--62  |  63--83  |  84--100  
-
 --100)  
 Positive/Negative Energy Plane  |  DC 8/1 week  |  01--39  |  40--65  |  66--
 86  |  87--100  
@@ -3511,10 +3352,8 @@ makes one up
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-use contagion's normal save DC for the initial saving throw). See the Dung###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 213
-Contagion
 
+Contagion
 
   
 Necromancy [Evil]  
@@ -3534,7 +3373,6 @@ Spell Resistance: Yes
 
 The subject contracts a disease selected from the table below, which strikes
 immediately (no incubation period). The DC noted is for the subsequent saves
-
 Master's Guide for descriptions of each disease, as well as for the general
 effects of disease.
 
@@ -3557,10 +3395,8 @@ for the general effects of disease.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-worth at least 1,500 gp). You must carry the focus for the contingency###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 213
-Contingency
 
+Contingency
 
   
 Evocation  
@@ -3603,15 +3439,13 @@ Material Component: That of the companion spell, plus quicksilver and an
 eyelash of an ogre mage, rakshasa, or similar spell-using creature.
 
 Focus: A statuette of you carved from elephant ivory and decorated with gems
-
 work.
 
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 213
-Continual Flame
 
+Continual Flame
 
   
 Evocation [Light]  
@@ -3640,9 +3474,8 @@ to carry the flame.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 213
-Control Plants
 
+Control Plants
 
   
 Transmutation  
@@ -3669,9 +3502,8 @@ Suicidal or self-destructive commands are simply ignored.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 214
-Control Undead
 
+Control Undead
 
   
 Necromancy  
@@ -3699,9 +3531,8 @@ Material Component: A small piece of bone and a small piece of raw meat.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 214
-Control Water
 
+Control Water
 
   
 Transmutation [Water]  
@@ -3744,16 +3575,13 @@ dust (for lower water).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DCS) 7, Weather (DD) 7, Weather (CD) 7, Windstorm (SpC) 7, Elysium (SpC)###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 214
-Control Weather
 
+Control Weather
 
   
 Transmutation  
 Level: Wu Jen 6, Shugenja 6 (Water), Urban Druid 7, Sha'ir 7, Cleric 7,
 Blighter 7, Wizard 7, Sorcerer 7, Druid 7, Apostle of Peace 7, Air 7, Storm
-
 Winter (Fr) 7, Cold (CD) 7, Storm (SpC) 7, Weather (ECS) 7,  
 Components: V, S,  
 Casting Time: 10 minutes; see text  
@@ -3796,9 +3624,8 @@ A druid casting this spell doubles the duration and affects a circle with a
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 214
-Control Winds
 
+Control Winds
 
   
 Transmutation [Air]  
@@ -3853,9 +3680,8 @@ large trees.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 214
-Create Food and Water
 
+Create Food and Water
 
   
 Conjuration (Creation)  
@@ -3880,9 +3706,8 @@ like clean rain water, and it doesn't go bad as the food does.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 215
-Create Greater Undead
 
+Create Greater Undead
 
   
 Necromancy [Evil]  
@@ -3914,10 +3739,8 @@ Caster Level  | Undead Created
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-see Turn or Rebuke Undead, page 15###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 215
-Create Undead
 
+Create Undead
 
   
 Necromancy [Evil]  
@@ -3951,7 +3774,6 @@ instead of a mummy. Doing this may be a good idea, because created undead are
 not automatically under the control of their animator. If you are capable of
 commanding undead, you may attempt to command the undead creature as it forms
 
-
 This spell must be cast at night.
 
 Material Component: A clay pot filled with grave dirt and another filled with
@@ -3963,9 +3785,8 @@ into worthless shells.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 215
-Create Water
 
+Create Water
 
   
 Conjuration (Creation) [Water]  
@@ -3994,15 +3815,12 @@ roughly 8 gallons and weighs about 60 pounds.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DD) 7, Serpent (OA) 7, Spider (SpC) 8###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 215
-Creeping Doom
 
+Creeping Doom
 
   
 Conjuration (Summoning)  
 Level: Druid 7, Death Master 7, Urban Druid 7, Scalykind (SpC) 7, Scalykind
-
 Components: V, S,  
 Casting Time: 1 round  
 Range: Close (25 ft. + 5 ft./2 levels)/100 ft.; see text  
@@ -4029,9 +3847,8 @@ be commanded again if you move within 100 feet).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 215
-Crushing Despair
 
+Crushing Despair
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -4059,9 +3876,8 @@ Material Component: A vial of tears.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 215
-Cure Critical Wounds
 
+Cure Critical Wounds
 
   
 Conjuration (Healing)  
@@ -4084,9 +3900,8 @@ of damage +1 point per caster level (maximum +20).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 215
-Cure Critical Wounds, Mass
 
+Cure Critical Wounds, Mass
 
   
 Conjuration (Healing)  
@@ -4107,9 +3922,8 @@ points of damage +1 point per caster level (maximum +40).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 215
-Cure Light Wounds
 
+Cure Light Wounds
 
   
 Conjuration (Healing)  
@@ -4138,9 +3952,8 @@ and can attempt a Will save to take half damage.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 216
-Cure Light Wounds, Mass
 
+Cure Light Wounds, Mass
 
   
 Conjuration (Healing)  
@@ -4165,9 +3978,8 @@ half damage.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 216
-Cure Minor Wounds
 
+Cure Minor Wounds
 
   
 Conjuration (Healing)  
@@ -4188,9 +4000,8 @@ of damage.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 216
-Cure Moderate Wounds
 
+Cure Moderate Wounds
 
   
 Conjuration (Healing)  
@@ -4215,9 +4026,8 @@ of damage +1 point per caster level (maximum +10).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 216
-Cure Moderate Wounds, Mass
 
+Cure Moderate Wounds, Mass
 
   
 Conjuration (Healing)  
@@ -4237,9 +4047,8 @@ points of damage +1 point per caster level (maximum +30).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 216
-Cure Serious Wounds
 
+Cure Serious Wounds
 
   
 Conjuration (Healing)  
@@ -4264,9 +4073,8 @@ of damage +1 point per caster level (maximum +15).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 216
-Cure Serious Wounds, Mass
 
+Cure Serious Wounds, Mass
 
   
 Conjuration (Healing)  
@@ -4286,9 +4094,8 @@ points of damage +1 point per caster level (maximum +35).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 216
-Curse Water
 
+Curse Water
 
   
 Necromancy [Evil]  
@@ -4312,15 +4119,12 @@ Material Component: 5 pounds of powdered silver (worth 25 gp).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Fire), Beguiler 0, Wizard 0, Sorcerer 0, Shugenja 0 (Fire)###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 216
-Dancing Lights
 
+Dancing Lights
 
   
 Evocation [Light]  
 Level: Bard 0, Court Herald 0, Death Master 0, Jester 0, Sha'ir 0, Wu Jen 0
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: Medium (100 ft. + 10 ft./level)  
@@ -4346,9 +4150,8 @@ Dancing lights can be made permanent with a permanency spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 216
-Darkness
 
+Darkness
 
   
 Evocation [Darkness]  
@@ -4390,10 +4193,8 @@ piece of coal.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-BoVD) 1, Whispered Secrets 2###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 216
-Darkvision
 
+Darkvision
 
   
 Transmutation  
@@ -4402,7 +4203,6 @@ Savant 2 (Arcane), Jester 2, Death Master 2, Duskblade 2, Fatemaker 2, Knight
 of the Weave 2, Hunter of the Dead 2, Runescarred Berserker 2, Wizard 2,
 Sorcerer 2, Spellthief 2, Consecrated Harrier 3, Beloved of Valarian 3, Urban
 Ranger 3, Ranger 3, Ebonmar Infiltrator 3, Vadalis Beastkeeper 3, Darkness
-
 Components: V, S, M,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -4423,10 +4223,8 @@ Material Component: Either a pinch of dried carrot or an agate.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-such as vampire###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 216
-Daylight
 
+Daylight
 
   
 Evocation [Light]  
@@ -4450,7 +4248,6 @@ penalties in bright light also take them while within the radius of this
 magical light. Despite its name, this spell is not the equivalent of daylight
 for the purposes of creatures that are damaged or destroyed by bright light
 
-
 If daylight is cast on a small object that is then placed inside or under a
 lightproof covering, the spell's effects are blocked until the covering is
 removed.
@@ -4465,9 +4262,8 @@ as darkness.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 217
-Daze
 
+Daze
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -4493,9 +4289,8 @@ Material Component: A pinch of wool or similar substance.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 217
-Daze Monster
 
+Daze Monster
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -4515,9 +4310,8 @@ Creatures of 7 or more HD are not affected.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 217
-Death Knell
 
+Death Knell
 
   
 Necromancy [Death, Ectomancy, Evil]  
@@ -4548,9 +4342,8 @@ These effects last for 10 minutes per HD of the subject creature.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 217
-Death Ward
 
+Death Ward
 
   
 Necromancy [Ectomancy]  
@@ -4585,9 +4378,8 @@ the Dread Necromancer).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 217
-Deathwatch
 
+Deathwatch
 
   
 Necromancy [Evil]  
@@ -4612,9 +4404,8 @@ sees through any spell or ability that allows creatures to feign death.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 217
-Deeper Darkness
 
+Deeper Darkness
 
   
 Evocation [Darkness]  
@@ -4638,9 +4429,8 @@ including daylight and light.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 217
-Deep Slumber
 
+Deep Slumber
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -4656,9 +4446,8 @@ This spell functions like sleep, except that it affects 10 HD of creatures.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 217
-Delayed Blast Fireball
 
+Delayed Blast Fireball
 
   
 Evocation [Fire]  
@@ -4685,9 +4474,8 @@ handled.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 217
-Delay Poison
 
+Delay Poison
 
   
 Conjuration (Healing)  
@@ -4716,9 +4504,8 @@ Delay poison does not cure any damage that poison may have already done.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 217
-Demand
 
+Demand
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -4748,10 +4535,8 @@ subject--a hair, a bit of nail, or the like.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-that is, 4 HD per caster level rather than 2 HD per caster leve###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 218
-Desecrate
 
+Desecrate
 
   
 Evocation [Evil]  
@@ -4777,7 +4562,6 @@ doubled (-6 profane penalty on turning checks, +2 profane bonus and +2 hit
 points per HD for undead in the area). Furthermore, anyone who casts animate
 dead within this area may create as many as double the normal amount of undead
 
-
 If the area contains an altar, shrine, or other permanent fixture of a deity,
 pantheon, or higher power other than your patron, the desecrate spell instead
 curses the area, cutting off its connection with the associated deity or
@@ -4792,9 +4576,8 @@ silver dust, all of which must be sprinkled around the area.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 218
-Destruction
 
+Destruction
 
   
 Necromancy [Death]  
@@ -4823,9 +4606,8 @@ anathema (cost 500 gp).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 218
-Detect Animals Or Plants
 
+Detect Animals Or Plants
 
   
 Divination  
@@ -4874,9 +4656,8 @@ The DM decides if a specific kind of animal or plant is present.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 218
-Detect Chaos
 
+Detect Chaos
 
   
 Divination  
@@ -4900,9 +4681,8 @@ lawful.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 219
-Detect Evil
 
+Detect Evil
 
   
 Divination  
@@ -4979,9 +4759,8 @@ or 3 feet of wood or dirt blocks it.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 219
-Detect Good
 
+Detect Good
 
   
 Divination  
@@ -5004,9 +4783,8 @@ evil. Healing potions, antidotes, and similar beneficial items are not good.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 219
-Detect Law
 
+Detect Law
 
   
 Divination  
@@ -5029,10 +4807,8 @@ chaotic.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-in the case of a spell) or is destroyed (in the case of a magic item).###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 219
-Detect Magic
 
+Detect Magic
 
   
 Divination  
@@ -5079,7 +4855,6 @@ Magic Item (caster level)  |  5th or lower  |  6th-11th  |  12th-20th  |
 21st+ (artifact)  
   
 Lingering Aura: A magical aura lingers after its original source dissipates
-
 detect magic is cast and directed at such a location, the spell indicates an
 aura strength of dim (even weaker than a faint aura). How long the aura
 lingers at this dim level depends on its original power:
@@ -5103,10 +4878,8 @@ Detect magic can be made permanent with a permanency spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-alchemy) check if the Wisdom check fails, or may try the Craft (alche###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 219
-Detect Poison
 
+Detect Poison
 
   
 Divination  
@@ -5128,7 +4901,6 @@ Spell Resistance: No
 You determine whether a creature, object, or area has been poisoned or is
 poisonous. You can determine the exact type of poison with a DC 20 Wisdom
 check. A character with the Craft (alchemy) skill may try a DC 20 Craft
-
 check prior to the Wisdom check.
 
 The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal,
@@ -5137,10 +4909,8 @@ a thin sheet of lead, or 3 feet of wood or dirt blocks it.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-1d20 + caster level). If you at least match the scrier's result, you ge###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 219
-Detect Scrying
 
+Detect Scrying
 
   
 Divination  
@@ -5164,7 +4934,6 @@ spell's area.
 
 If the scrying attempt originates within the area, you also know its location;
 otherwise, you and the scrier immediately make opposed caster level checks
-
 visual image of the scrier and an accurate sense of his or her direction and
 distance from you.
 
@@ -5174,9 +4943,8 @@ trumpet.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 220
-Detect Secret Doors
 
+Detect Secret Doors
 
   
 Divination  
@@ -5213,9 +4981,8 @@ of lead, or 3 feet of wood or dirt blocks it.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 220
-Detect Snares and Pits
 
+Detect Snares and Pits
 
   
 Divination  
@@ -5259,10 +5026,8 @@ sheet of lead, or 3 feet of wood or dirt blocks it.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-PG) 2, Knowledge 2, Inquisition (DF) 3, Baator (SpC) 3, Inquisition (CD) 3###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 220
-Detect Thoughts
 
+Detect Thoughts
 
   
 Divination [Mind-Affecting]  
@@ -5272,7 +5037,6 @@ Harrier 2, Urban Druid 2, Savant 2 (Arcane), Death Master 2, Sha'ir 2, Wu Jen
 2, Beguiler 2, Vigilante 2, Ebonmar Infiltrator 2, Wizard 2, Sorcerer 2,
 Emissary of Barachiel 2, Truth (RE) 1, Mind (XPH) 2, Mind (DF) 2, Mind (CD) 2,
 Mentalism (DCS) 2, Warden Initiate 2, Initiate of Lendys (Feat) 2, Mentalism
-
 Components: V, S, AF, DF,  
 Casting Time: 1 standard action  
 Range: 60 ft.  
@@ -5306,10 +5070,8 @@ Arcane Focus: A copper piece.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-OA) 1, Necromancy (DCS) 1, Deathless (ECS) 1###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 220
-Detect Undead
 
+Detect Undead
 
   
 Divination  
@@ -5317,7 +5079,6 @@ Level: Cleric 1, Apostle of Peace 1, Spellthief 1, Paladin of Tyranny 1,
 Paladin of Slaughter 1, Gnome Artificer 1, Urban Druid 1, Savant 1 (Arcane),
 Death Master 1, Sha'ir 1, Death Delver 1, Blighter 1, Dread Necromancer 1,
 Wizard 1, Sorcerer 1, Paladin 1, Champion of Gwynharwyf 1, Undeath 1, Ancestor
-
 Components: V, S, M, DF,  
 Casting Time: 1 standard action  
 Range: 60 ft.  
@@ -5368,9 +5129,8 @@ Arcane Material Component: A bit of earth from a grave.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 220
-Dictum
 
+Dictum
 
   
 Evocation [Lawful, Sonic]  
@@ -5413,9 +5173,8 @@ Creatures whose HD exceed your caster level are unaffected by dictum.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 221
-Dimensional Anchor
 
+Dimensional Anchor
 
   
 Abjuration  
@@ -5452,9 +5211,8 @@ the end of a summoning spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 221
-Dimensional Lock
 
+Dimensional Lock
 
   
 Abjuration  
@@ -5485,9 +5243,8 @@ a summoning spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 221
-Dimension Door
 
+Dimension Door
 
   
 Conjuration (Teleportation)  
@@ -5534,9 +5291,8 @@ the spell simply fails.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 221
-Diminish Plants
 
+Diminish Plants
 
   
 Transmutation  
@@ -5574,11 +5330,8 @@ This spell has no effect on plant creatures.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-CD) 4, Mentalism (DCS) 4, Nobility (CW) 4, Drow (SpC) 4, Mechanus (SpC)###BEGIN_SPELL###
-FRCS) 4, Mind (XPH) 4, Nobility (DD) 4, Mind (DF) 4, Inquisition (DF) 4, M###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 221
-Discern Lies
 
+Discern Lies
 
   
 Divination  
@@ -5586,8 +5339,6 @@ Level: Beloved of Valarian 3, Paladin 3, Vassal of Bahamut 3, Champion of
 Gwynharwyf 3, Paladin of Tyranny 3, Consecrated Harrier 3, Urban Ranger 3,
 Apostle of Peace 4, Shugenja 4 (Air), Justiciar of Taiia 4, Savant 4 (Divine),
 Knight of the Chalice 4, Cleric 4, Tyranny (CW) 3, Inquisition (CD) 4, Drow
-
-
 Truth (RE) 4,  
 Components: V, S, DF,  
 Casting Time: 1 standard action  
@@ -5607,9 +5358,8 @@ round, you may concentrate on a different subject.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 222
-Discern Location
 
+Discern Location
 
   
 Divination  
@@ -5642,10 +5392,8 @@ it at least once.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Feat) 1, Whispered Secrets 1###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 222
-Disguise Self
 
+Disguise Self
 
   
 Illusion (Glamer)  
@@ -5653,7 +5401,6 @@ Level: Bard 1, Shugenja 1 (Air), Spellthief 1, Celebrant of Sharess 1,
 Hexblade 1, Assassin 1, Savant 1 (Arcane), Jester 1, Sha'ir 1, Beguiler 1,
 Vigilante 1, Fatemaker 1, Ebonmar Infiltrator 1, Wizard 1, Sorcerer 1,
 Consecrated Harrier 1, Trickery 1, Baator (SpC) 1, Envy 1, Initiate of Shar
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: Personal  
@@ -5685,9 +5432,8 @@ save.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 222
-Disintegrate
 
+Disintegrate
 
   
 Transmutation  
@@ -5728,9 +5474,8 @@ Arcane Material Component: A lodestone and a pinch of dust.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 222
-Dismissal
 
+Dismissal
 
   
 Abjuration  
@@ -5756,9 +5501,8 @@ than its own.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 222
-Dispel Chaos
 
+Dispel Chaos
 
   
 Abjuration [Lawful]  
@@ -5773,9 +5517,8 @@ spells rather than evil ones.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 222
-Dispel Evil
 
+Dispel Evil
 
   
 Abjuration [Good]  
@@ -5810,9 +5553,8 @@ and ends the spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 222
-Dispel Good
 
+Dispel Good
 
   
 Abjuration [Evil]  
@@ -5828,15 +5570,12 @@ rather than evil ones.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-SpC) 5###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 223
-Dispel Law
 
+Dispel Law
 
   
 Abjuration [Chaotic]  
 Level: Paladin of Slaughter 4, Cleric 5, Disciple of Thrym 5, Chaos 5, Limbo
-
 Components:  
   
 
@@ -5847,16 +5586,12 @@ spells rather than evil ones.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-such as a monster summoned by monster summoning), you make a dispel check###BEGIN_SPELL###
-Arcane), Magewright 3, Bard 3, Paladin of Slaughter 3, Paladin of Tyranny###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 223
-Dispel Magic
 
+Dispel Magic
 
   
 Abjuration  
 Level: Trapsmith 1, Sha'ir 3, Death Master 3, Court Herald 3, Hexblade 3
-
 Spellthief 3, Shugenja 3 (All), Apostle of Peace 3, Champion of Gwynharwyf 3,
 Wu Jen 3, Blighter 3, Cleric 3, Paladin 3, Sorcerer 3, Wizard 3, Hoardstealer
 3, Knight of the Weave 3, Knight of the Chalice 3, Vigilante 3, Beguiler 3,
@@ -5904,7 +5639,6 @@ dispelled (the drow's spell resistance doesn't help him); if she fails, that
 spell remains in effect.
 
 If you target an object or creature that is the effect of an ongoing spell
-
 end the spell that conjured the object or creature.
 
 If the object that you target is a magic item, you make a dispel check against
@@ -5957,9 +5691,8 @@ to counter the other spellcaster's spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 223
-Dispel Magic, Greater
 
+Dispel Magic, Greater
 
   
 Abjuration  
@@ -5979,9 +5712,8 @@ magic can't dispel that effect.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 223
-Displacement
 
+Displacement
 
   
 Illusion (Glamer)  
@@ -6011,9 +5743,8 @@ twisted into a loop.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 223
-Disrupting Weapon
 
+Disrupting Weapon
 
   
 Transmutation  
@@ -6036,9 +5767,8 @@ not apply against the destruction effect.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 223
-Disrupt Undead
 
+Disrupt Undead
 
   
 Necromancy  
@@ -6061,16 +5791,13 @@ it.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-CD) 4, Ancestor (OA) 4, Insight (DCS) 4###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 224
-Divination
 
+Divination
 
   
 Divination  
 Level: Cleric 4, Vassal of Bahamut 4, Savant 4 (Divine), Magewright 4, Apostle
 of Peace 4, Divine Bard 5, Oracle (CD) 3, Divination (DF) 3, Knowledge 4, Pact
-
 Components: V, S, M,  
 Casting Time: 10 minutes  
 Range: Personal  
@@ -6110,9 +5837,8 @@ religion, together worth at least 25 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 224
-Divine Favor
 
+Divine Favor
 
   
 Evocation  
@@ -6135,15 +5861,12 @@ least +1, maximum +3). The bonus doesn't apply to spell damage.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Divine), Justiciar of Taiia 4, War 4, Celestia (SpC) 4, Competition (SpC)###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 224
-Divine Power
 
+Divine Power
 
   
 Evocation  
 Level: Runescarred Berserker 3, Cleric 4, Vassal of Bahamut 4, Savant 4
-
 Orc (SpC) 4, Pride 4, Competition (CD) 4, Fury (FC1) 4,  
 Components: V, S, DF,  
 Casting Time: 1 standard action  
@@ -6160,9 +5883,8 @@ to Strength, and you gain 1 temporary hit point per caster level.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 224
-Dominate Animal
 
+Dominate Animal
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -6196,16 +5918,13 @@ it is a move action.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DCS) 9, Dragon (Dr) 9, Charm (ECS) 9, Passion (ECS) 9, Charm (FRCS) 9###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 224
-Dominate Monster
 
+Dominate Monster
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
 Level: Sorcerer 9, Wizard 9, Beguiler 9, Wu Jen 9, Sha'ir 9, Death Master 9,
 Dragon (SpC) 9, Temptation (FC1) 9, Charm (DD) 9, Tyranny (CW) 9, Mentalism
-
 Components: V, S,  
 Target: One creature  
   
@@ -6216,10 +5935,8 @@ restricted by creature type.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-rather than DC 25) can determine that the subject's behavior is be###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 224
-Dominate Person
 
+Dominate Person
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -6250,7 +5967,6 @@ Once you have given a dominated creature a command, it continues to attempt to
 carry out that command to the exclusion of all other activities except those
 necessary for day-to-day survival (such as sleeping, eating, and so forth).
 Because of this limited range of activity, a Sense Motive check against DC 15
-
 influenced by an enchantment effect (see the Sense Motive skill description,
 page 81).
 
@@ -6280,9 +5996,8 @@ an effect neither prevents the establishment of domination nor dispels it.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 225
-Doom
 
+Doom
 
   
 Necromancy [Fear, Mind-Affecting]  
@@ -6306,9 +6021,8 @@ it to become shaken.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 225
-Drawmij's Instant Summons
 
+Drawmij's Instant Summons
 
   
 Conjuration (Summoning)  
@@ -6347,9 +6061,8 @@ Material Component: A sapphire worth at least 1,000 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 225
-Dream
 
+Dream
 
   
 Illusion (Phantasm) [Mind-Affecting]  
@@ -6392,9 +6105,8 @@ fails any saving throw, for example) while in the trance.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 225
-Eagle's Splendor
 
+Eagle's Splendor
 
   
 Transmutation  
@@ -6428,9 +6140,8 @@ eagle.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 225
-Eagle's Splendor, Mass
 
+Eagle's Splendor, Mass
 
   
 Transmutation  
@@ -6447,10 +6158,8 @@ creatures.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Reflex DC 15 half) and is pinned beneath the rubble (see belo###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 225
-Earthquake
 
+Earthquake
 
   
 Evocation [Earth]  
@@ -6486,7 +6195,6 @@ travels horizontally as far as it fell vertically. An earthquake cast at the
 top of a 100-foot cliff would sweep debris 100 feet outward from the base of
 the cliff. Any creature in the path takes 8d6 points of bludgeoning damage
 
-
 Open Ground: Each creature standing in the area must make a DC 15 Reflex save
 or fall down. Fissures open in the earth, and every creature on the ground has
 a 25% chance to fall into one (Reflex DC 20 to avoid a fissure). At the end of
@@ -6517,9 +6225,8 @@ of lethal damage each minute thereafter until freed or dead.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 226
-Elemental Swarm
 
+Elemental Swarm
 
   
 Conjuration (Summoning) [see text]  
@@ -6557,9 +6264,8 @@ use it to summon water elementals.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 226
-Endure Elements
 
+Endure Elements
 
   
 Abjuration  
@@ -6591,9 +6297,8 @@ air, and so forth.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 226
-Energy Drain
 
+Energy Drain
 
   
 Necromancy  
@@ -6623,9 +6328,8 @@ hour.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 226
-Enervation
 
+Enervation
 
   
 Necromancy  
@@ -6664,10 +6368,8 @@ hour.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-see Table 2-2 in the Dungeon Master's Guide). Other magical properties ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 226
-Enlarge Person
 
+Enlarge Person
 
   
 Transmutation  
@@ -6699,7 +6401,6 @@ used to crush a creature by increasing its size.
 
 All equipment worn or carried by a creature is similarly enlarged by the
 spell. Melee and projectile weapons affected by this spell deal more damage
-
 not affected by this spell. Any enlarged item that leaves an enlarged
 creature's possession (including a projectile or thrown weapon) instantly
 returns to its normal size. This means that thrown weapons deal their normal
@@ -6723,9 +6424,8 @@ Material Component: A pinch of powdered iron.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 227
-Enlarge Person, Mass
 
+Enlarge Person, Mass
 
   
 Transmutation  
@@ -6741,9 +6441,8 @@ creatures.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 227
-Entangle
 
+Entangle
 
   
 Transmutation  
@@ -6773,9 +6472,8 @@ of the entangling plants.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 227
-Enthrall
 
+Enthrall
 
   
 Enchantment (Charm) [Language-Dependent, Mind-Affecting, Sonic]  
@@ -6829,17 +6527,12 @@ Wisdom score of 16 or higher becomes hostile.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-SpC) 2###BEGIN_SPELL###
-Arcane), Apostle of Peace 1, Luck 1, Storm (SpC) 1, Storm (DCS) 1, Li###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 227
-Entropic Shield
 
+Entropic Shield
 
   
 Abjuration  
 Level: Cleric 1, Death Master 1, Jester 1, Savant 1 (Divine), Hexblade 1
-
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: Personal  
@@ -6858,15 +6551,12 @@ breath weapon, are not affected.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Arcane), Sha'ir 1, Vigilante 1, Wizard 1, Sorcerer 1, Spellthief 1, Rune (###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 227
-Erase
 
+Erase
 
   
 Transmutation  
 Level: Bard 1, Magewright 1, Merchant Prince 1, Court Herald 1, Savant 1
-
 1,  
 Components: V, S,  
 Casting Time: 1 standard action  
@@ -6893,9 +6583,8 @@ instead.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 227
-Ethereal Jaunt
 
+Ethereal Jaunt
 
   
 Transmutation  
@@ -6934,9 +6623,8 @@ points of damage per 5 feet that you so travel.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 228
-Etherealness
 
+Etherealness
 
   
 Transmutation  
@@ -6961,9 +6649,8 @@ material existence.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 228
-Evard's Black Tentacles
 
+Evard's Black Tentacles
 
   
 Conjuration (Creation)  
@@ -7003,9 +6690,8 @@ Material Component: A piece of tentacle from a giant octopus or a giant squid.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 228
-Expeditious Retreat
 
+Expeditious Retreat
 
   
 Transmutation  
@@ -7033,9 +6719,8 @@ hints at the typical wizard's attitude towards combat.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 228
-Explosive Runes
 
+Explosive Runes
 
   
 Abjuration [Force]  
@@ -7071,16 +6756,13 @@ runes.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-PG) 6, Pestilence (DCS) 6, Dread Tyranny 6, Initiate of Gruumsh (Feat)###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 228
-Eyebite
 
+Eyebite
 
   
 Necromancy [Evil]  
 Level: Bard 6, Sorcerer 6, Wizard 6, Sha'ir 6, Death Master 6, Dread
 Necromancer 6, Orc (SpC) 6, Necromancer (ECS) 6, Scalykind (DD) 6, Scalykind
-
 Scalykind (SpC) 6, Serpent (OA) 6, Treachery (DCS) 7, Suffering 7,  
 Components: V, S,  
 Casting Time: 1 standard action  
@@ -7125,9 +6807,8 @@ action each round after the first to target a foe.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 229
-Fabricate
 
+Fabricate
 
   
 Transmutation  
@@ -7163,9 +6844,8 @@ raw materials required to craft the item to be created.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 229
-Faerie Fire
 
+Faerie Fire
 
   
 Evocation [Light]  
@@ -7191,9 +6871,8 @@ cause any harm to the objects or creatures thus outlined.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 229
-False Life
 
+False Life
 
   
 Necromancy  
@@ -7217,9 +6896,8 @@ be seen once the alcohol or spirits evaporate.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 229
-False Vision
 
+False Vision
 
   
 Illusion (Glamer)  
@@ -7246,17 +6924,14 @@ Arcane Material Component: The ground dust of a piece of jade worth at least
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-FC1) 4, Passion (DCS) 5###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 229
-Fear
 
+Fear
 
   
 Necromancy [Fear, Mind-Affecting]  
 Level: Thayan Slaver 2, Bard 3, Celebrant of Sharess 3, Vigilante 3, Death
 Delver 4, Wizard 4, Sorcerer 4, Sha'ir 4, Death Master 4, Jester 4, Dread
 Necromancer 4, Hexblade 4, Blightbringer 4, Moon 4, Tyranny (CW) 4, Entropy
-
 Components: V, S, M,  
 Casting Time: 1 standard action  
 Range: 30 ft.  
@@ -7277,17 +6952,14 @@ Material Component: Either the heart of a hen or a white feather.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Feat) 1###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 229
-Feather Fall
 
+Feather Fall
 
   
 Transmutation  
 Level: Bard 1, Shugenja 1 (Air), Spellthief 1, Gnome Artificer 1, Merchant
 Prince 1, Court Herald 1, Assassin 1, Sha'ir 1, Savant 1 (Arcane), Jester 1,
 Vigilante 1, Wizard 1, Sorcerer 1, Vadalis Beastkeeper 1, Initiate of Bahamut
-
 Components: V,  
 Casting Time: 1 free action  
 Range: Close (25 ft. + 5 ft./2 levels)  
@@ -7329,16 +7001,13 @@ blow or a charging or flying creature.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-FC1) 5###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 229
-Feeblemind
 
+Feeblemind
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
 Level: Sorcerer 5, Wizard 5, Beguiler 5, Wu Jen 5, Sha'ir 5, Jester 5, Court
 Herald 5, Shugenja 5 (Fire), Suffering 5, Corruption (BoVD) 5, Corruption
-
 Components: V, S, M,  
 Casting Time: 1 standard action  
 Range: Medium (100 ft. + 10 ft./level)  
@@ -7363,9 +7032,8 @@ Material Component: A handful of clay, crystal, glass, or mineral spheres.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 230
-Find the Path
 
+Find the Path
 
   
 Divination  
@@ -7406,9 +7074,8 @@ counters, sticks, carved runes, or the like.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 230
-Find Traps
 
+Find Traps
 
   
 Divination  
@@ -7430,9 +7097,8 @@ Note that find traps grants no ability to disable the traps that you may find.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 230
-Finger of Death
 
+Finger of Death
 
   
 Necromancy [Death]  
@@ -7457,15 +7123,12 @@ throw.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Agasha School), Initiate of Tchazzar (Feat) 3###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 231
-Fireball
 
+Fireball
 
   
 Evocation [Fire]  
 Level: Sorcerer 3, Wizard 3, Warmage 3, Wu Jen 3 (Fire), Sha'ir 3, Shugenja 4
-
 Components: V, S, M,  
 Casting Time: 1 standard action  
 Range: Long (400 ft. + 40 ft./level)  
@@ -7500,9 +7163,8 @@ Material Component: A tiny ball of bat guano and sulfur.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 230
-Fire Seeds
 
+Fire Seeds
 
   
 Conjuration (Creation) [Fire]  
@@ -7549,9 +7211,8 @@ Material Component: The acorns or holly berries.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 230
-Fire Shield
 
+Fire Shield
 
   
 Evocation [Fire or Cold]  
@@ -7599,9 +7260,8 @@ shield.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 231
-Fire Storm
 
+Fire Storm
 
   
 Evocation [Fire]  
@@ -7625,11 +7285,8 @@ level (maximum 20d6).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-only) can use the Search skill to find a fire trap and Disable Device###BEGIN_SPELL###
-book, box, bottle, chest, coffer, coffin, door, drawer, and so fort###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 231
-Fire Trap
 
+Fire Trap
 
   
 Abjuration [Fire]  
@@ -7646,7 +7303,6 @@ Spell Resistance: Yes
 
 Fire trap creates a fiery explosion when an intruder opens the item that the
 trap protects. A fire trap can ward any object that can be opened and closed
-
 
 When casting fire trap, you select a point on the object as the spell's
 center. When someone other than you opens the object, a fiery explosion fills
@@ -7668,7 +7324,6 @@ fire trapped object to an individual usually involves setting a password that
 you can share with friends.
 
 Note: Magic traps such as fire trap are hard to detect and disable. A rogue
-
 thwart it. The DC in each case is 25 + spell level (DC 27 for a druid's fire
 trap or DC 29 for the arcane version).
 
@@ -7678,9 +7333,8 @@ warded object.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 231
-Flame Arrow
 
+Flame Arrow
 
   
 Transmutation [Fire]  
@@ -7706,9 +7360,8 @@ Material Component: A drop of oil and a small piece of flint.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 231
-Flame Blade
 
+Flame Blade
 
   
 Evocation [Fire]  
@@ -7734,10 +7387,8 @@ The spell does not function underwater.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-chill shield), and similar mag###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 231
-Flame Strike
 
+Flame Strike
 
   
 Evocation [Fire]  
@@ -7758,13 +7409,11 @@ damage is fire damage, but the other half results directly from divine power
 and is therefore not subject to being reduced by resistance to fire-based
 attacks, such as that granted by protection from energy (fire), fire shield
 
-
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 232
-Flaming Sphere
 
+Flaming Sphere
 
   
 Evocation [Fire]  
@@ -7801,15 +7450,12 @@ dusting of powdered iron.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Fire), Blighter 0, Wizard 0, Sorcerer 0, Druid 0, Shugenja 0 (Fire), Initi###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 232
-Flare
 
+Flare
 
   
 Evocation [Light]  
 Level: Bard 0, Gnome Artificer 0, Jester 0, Death Master 0, Sha'ir 0, Wu Jen 0
-
 of Tchazzar (Feat) 0,  
 Components: V,  
 Casting Time: 1 standard action  
@@ -7828,9 +7474,8 @@ creatures already dazzled, are not affected by flare.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 232
-Flesh to Stone
 
+Flesh to Stone
 
   
 Transmutation  
@@ -7857,9 +7502,8 @@ Material Component: Lime, water, and earth.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 232
-Fly
 
+Fly
 
   
 Transmutation  
@@ -7895,9 +7539,8 @@ Arcane Focus: A wing feather from any bird.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 232
-Fog Cloud
 
+Fog Cloud
 
   
 Conjuration (Creation)  
@@ -7927,10 +7570,8 @@ The spell does not function underwater.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-although not by planar trave###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 232
-Forbiddance
 
+Forbiddance
 
   
 Abjuration  
@@ -7957,7 +7598,6 @@ the spell is cast takes no damage unless it exits the area and attempts to
 reenter, at which time it is affected as normal.
 
 Alignments identical: No effect. The creature may enter the area freely
-
 
 Alignments different with respect to either law/chaos or good/evil: The
 creature takes 6d6 points of damage. A successful Will save halves the damage,
@@ -7986,15 +7626,12 @@ requires the burning of additional rare incenses worth at least 1,000 gp, plus
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-FRCS) 8###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 233
-Forcecage
 
+Forcecage
 
   
 Evocation [Force]  
 Level: Sorcerer 7, Wizard 7, Sha'ir 7, Force (CD) 7, Craft (SpC) 8, Craft
-
 Components: V, S, M,  
 Casting Time: 1 standard action  
 Range: Close (25 ft. + 5 ft./2 levels)  
@@ -8034,9 +7671,8 @@ disappears when you cast the spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 233
-Foresight
 
+Foresight
 
   
 Divination  
@@ -8079,9 +7715,8 @@ Arcane Material Component: A hummingbird's feather.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 233
-Fox's Cunning
 
+Fox's Cunning
 
   
 Transmutation  
@@ -8110,9 +7745,8 @@ Arcane Material Component: A few hairs, or a pinch of dung, from a fox.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 233
-Fox's Cunning, Mass
 
+Fox's Cunning, Mass
 
   
 Transmutation  
@@ -8128,9 +7762,8 @@ creatures.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 233
-Freedom
 
+Freedom
 
   
 Abjuration  
@@ -8155,9 +7788,8 @@ banished into the maze.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 233
-Freedom of Movement
 
+Freedom of Movement
 
   
 Abjuration  
@@ -8196,19 +7828,12 @@ appendage.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-such as those that supply armor or natural armor bonuse###BEGIN_SPELL###
-maneuverability perfect). It can pass through small holes or narrow openin###BEGIN_SPELL###
-DCS) 3###BEGIN_SPELL###
-Water), Vigilante 3, Wizard 3, Sorcerer 3, Spellthief 3, Air 3, Alterat###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 234
-Gaseous Form
 
+Gaseous Form
 
   
 Transmutation  
 Level: Trapsmith 1, Bard 3, Jester 3, Death Master 3, Sha'ir 3, Wu Jen 3
-
-
 Components: S, M, DF,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -8231,24 +7856,19 @@ gaseous form. If it has a touch spell ready to use, that spell is discharged
 harmlessly when the gaseous form spell takes effect.
 
 A gaseous creature can't run, but it can fly at a speed of 10 feet
-
 even mere cracks, with all it was wearing or holding in its hands, as long as
 the spell persists. The creature is subject to the effects of wind, and it
 can't enter water or other liquid. It also can't manipulate objects or
 activate items, even those carried along with its gaseous form. Continuously
 active items remain active, though in some cases their effects may be moot
 
-
 Arcane Material Component: A bit of gauze and a wisp of smoke.
 
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-caster's choice), oriented in the direction you desire when it comes i###BEGIN_SPELL###
-FRCS) 9###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 234
-Gate
 
+Gate
 
   
 Conjuration (Creation or Calling)  
@@ -8257,7 +7877,6 @@ of Peace 9, Portal (Alternative) 9, Diabolic (BoVD) 9, Demonic (FC1) 9, Dragon
 Below (ECS) 9, Glory (Dr) 9, Glory (DD) 9, Summoning (DF) 9, Glory (DF) 9,
 Demonic (BoVD) 9, Nightbringer Initiate 9 (To Mabar only), Celestial (BoED) 9,
 Summoner (CD) 9, Drow (SpC) 9, Hades (SpC) 9, Pact (CD) 9, Portal 9, Drow
-
 Components: V, S, XP,  
 Casting Time: 1 standard action  
 Range: Medium (100 ft. + 10 ft./level)  
@@ -8273,7 +7892,6 @@ travel between those two planes in either direction.
 
 Second, you may then call a particular individual or kind of being through the
 gate. The gate itself is a circular hoop or disk from 5 to 20 feet in diameter
-
 existence (typically vertical and facing you). It is a two-dimensional window
 looking into the plane you specified when casting the spell, and anyone or
 anything that moves through is shunted instantly to the other side.
@@ -8350,9 +7968,8 @@ XP Cost: 1,000 XP (only for the calling creatures function).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 235
-Geas, Lesser
 
+Geas, Lesser
 
   
 Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]  
@@ -8395,9 +8012,8 @@ not affect a lesser geas.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 234
-Geas/Quest
 
+Geas/Quest
 
   
 Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]  
@@ -8433,10 +8049,8 @@ clerics call the same spell quest.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-see raise dead). Days spent under the influence of this spell don't co###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 235
-Gentle Repose
 
+Gentle Repose
 
   
 Necromancy  
@@ -8454,7 +8068,6 @@ Spell Resistance: Yes (object)
 
 You preserve the remains of a dead creature so that they do not decay. Doing
 so effectively extends the time limit on raising that creature from the dead
-
 against the time limit. Additionally, this spell makes transporting a fallen
 comrade more pleasant.
 
@@ -8466,9 +8079,8 @@ the corpse has (or had).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 235
-Ghost Sound
 
+Ghost Sound
 
   
 Illusion (Figment)  
@@ -8505,10 +8117,8 @@ Material Component: A bit of wool or a small lump of wax.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Fortitude negates). A neutralize poison spell removes the effect fro###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 235
-Ghoul Touch
 
+Ghoul Touch
 
   
 Necromancy  
@@ -8529,7 +8139,6 @@ attack.
 
 Additionally, the paralyzed subject exudes a carrion stench that causes all
 living creatures (except you) in a 10-foot-radius spread to become sickened
-
 sickened creature, and creatures immune to poison are unaffected by the
 stench.
 
@@ -8539,9 +8148,8 @@ ghoul, or a pinch of earth from a ghoul's lair.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 235
-Giant Vermin
 
+Giant Vermin
 
   
 Transmutation  
@@ -8586,9 +8194,8 @@ Caster Level  | Vermin Size
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 235
-Glibness
 
+Glibness
 
   
 Transmutation  
@@ -8615,9 +8222,8 @@ detect your lies or force you to speak only the truth.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 236
-Glitterdust
 
+Glitterdust
 
   
 Conjuration (Creation)  
@@ -8645,9 +8251,8 @@ Material Component: Ground mica.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 236
-Globe of Invulnerability
 
+Globe of Invulnerability
 
   
 Abjuration  
@@ -8668,9 +8273,8 @@ excludes 4th-level spells and spell-like effects.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 236
-Globe of Invulnerability, Lesser
 
+Globe of Invulnerability, Lesser
 
   
 Abjuration  
@@ -8715,11 +8319,8 @@ the spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-maximum 5d8) to the intruder and to all within 5 feet of him or her. T###BEGIN_SPELL###
-and similar magical effects) can fool a glyph, though nonmagical disgui###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 236
-Glyph of Warding
 
+Glyph of Warding
 
   
 Abjuration  
@@ -8757,7 +8358,6 @@ glyph and tracery become nearly invisible.
 
 Glyphs cannot be affected or bypassed by such means as physical or magical
 probing, though they can be dispelled. Mislead, polymorph, and nondetection
-
 and the like can't.
 
 Read magic allows you to identify a glyph of warding with a DC 13 Spellcraft
@@ -8778,7 +8378,6 @@ Depending on the version selected, a glyph either blasts the intruder or
 activates a spell.
 
 Blast Glyph: A blast glyph deals 1d8 points of damage per two caster levels
-
 damage is acid, cold, fire, electricity, or sonic (caster's choice, made at
 time of casting). Each creature affected can attempt a Reflex save to take
 half damage. Spell resistance applies against this effect.
@@ -8798,9 +8397,8 @@ sprinkled with powdered diamond worth at least 200 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 237
-Glyph of Warding, Greater
 
+Glyph of Warding, Greater
 
   
 Abjuration  
@@ -8824,9 +8422,8 @@ sprinkled with powdered diamond worth at least 400 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 237
-Goodberry
 
+Goodberry
 
   
 Transmutation  
@@ -8850,9 +8447,8 @@ curing in any 24-hour period.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 237
-Good Hope
 
+Good Hope
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -8877,10 +8473,8 @@ Good hope counters and dispels crushing despair.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-whether it wants to or no###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 237
-Grease
 
+Grease
 
   
 Conjuration (Creation)  
@@ -8907,7 +8501,6 @@ The DM should adjust saving throws by circumstance. For example, a creature
 charging down an incline that is suddenly greased has little chance to avoid
 the effect, but its ability to exit the affected area is almost assured
 
-
 The spell can also be used to create a greasy coating on an item--a rope,
 ladder rungs, or a weapon handle, for instance. Material objects not in use
 are always affected by this spell, while an object wielded or employed by a
@@ -8923,15 +8516,12 @@ Material Component: A bit of pork rind or butter.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-BoVD) 6, Greed (Dr) 6###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 237
-Guards and Wards
 
+Guards and Wards
 
   
 Abjuration  
 Level: Sorcerer 6, Wizard 6, Sha'ir 6, Urban Druid 6, Court Herald 6, Greed
-
 Components: V, S, M, AF,  
 Casting Time: 30 minutes  
 Range: Anywhere within the area to be warded  
@@ -8994,9 +8584,8 @@ Focus: A small silver rod.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 238
-Guidance
 
+Guidance
 
   
 Divination  
@@ -9019,16 +8608,13 @@ applies.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DCS) 2###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 238
-Gust of Wind
 
+Gust of Wind
 
   
 Evocation [Air]  
 Level: Druid 2, Sorcerer 2, Wizard 2, Nentyar Hunter 2, Sha'ir 2, Warmage 3,
 Gnome Artificer 3, Shugenja 3 (Air), Storm (SpC) 2, Weather (CD) 2, Storm
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: 60 ft.  
@@ -9074,9 +8660,8 @@ Gust of wind can be made permanent with a permanency spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 238
-Hallow
 
+Hallow
 
   
 Evocation [Good]  
@@ -9133,9 +8718,8 @@ Material Component: Herbs, oils, and incense worth at least 1,000 gp, plus
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 238
-Hallucinatory Terrain
 
+Hallucinatory Terrain
 
   
 Illusion (Glamer)  
@@ -9162,16 +8746,13 @@ Material Component: A stone, a twig, and a bit of green plant.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DCS) 3###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 238
-Halt Undead
 
+Halt Undead
 
   
 Necromancy  
 Level: Sorcerer 3, Wizard 3, Hunter of the Dead 3, Death Delver 3, Sha'ir 3,
 Death Master 3, Urban Druid 3, Dread Necromancer 3, Undying Fate 3, Necromancy
-
 Components: V, S, M,  
 Casting Time: 1 standard action  
 Range: Medium (100 ft. + 10 ft./level)  
@@ -9194,9 +8775,8 @@ Material Component: A pinch of sulfur and powdered garlic.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 239
-Harm
 
+Harm
 
   
 Necromancy  
@@ -9221,10 +8801,8 @@ If used on an undead creature, harm acts like heal.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-SpC) 4, Celerity (CD) 4###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 239
-Haste
 
+Haste
 
   
 Transmutation  
@@ -9232,7 +8810,6 @@ Level: Trapsmith 1, Telflammar Shadowlord 2, Shugenja 3 (Air), Spellthief 3,
 Bladesinger 3, Gnome Artificer 3, Wu Jen 3, Wizard 3, Vigilante 3, Bard 3,
 Sorcerer 3, Sha'ir 3, Runescarred Berserker 3, Jester 3, Fatemaker 3, Beguiler
 3, Emissary of Barachiel 3, Time 3, Initiate of Amaunator (Feat) 3, Celerity
-
 Components: V, S, M,  
 Casting Time: 1 standard action  
 Range: Close (25 ft. + 5 ft./2 levels)  
@@ -9269,9 +8846,8 @@ Material Component: A shaving of licorice root.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 239
-Heal
 
+Heal
 
   
 Conjuration (Healing)  
@@ -9303,15 +8879,12 @@ If used against an undead creature, heal instead acts like harm.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DCS) 8, Community (DF) 8, Community (DD) 8, Healing 9, Elysium (SpC)###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 239
-Heal, Mass
 
+Heal, Mass
 
   
 Conjuration (Healing)  
 Level: Healer 8, Shugenja 8 (Water), Cleric 9, Apostle of Peace 9, Community
-
 Community (BoED) 9, Community (CD) 9, Community (ECS) 9, Life (ECS) 9,  
 Components: V, S,  
 Casting Time: 1 standard action  
@@ -9328,9 +8901,8 @@ hit points restored to each creature is 250.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 239
-Heal Mount
 
+Heal Mount
 
   
 Conjuration (Healing)  
@@ -9351,10 +8923,8 @@ mount (typically a warhorse).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Magic item's saving throws are covered in the Dungeon Master's Guide).###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 239
-Heat Metal
 
+Heat Metal
 
   
 Transmutation [Fire]  
@@ -9373,7 +8943,6 @@ Spell Resistance: Yes (object)
 
 Heat metal makes metal extremely warm. Unattended, nonmagical metal gets no
 saving throw. Magical metal is allowed a saving throw against the spell.
-
 item in a creature's possession uses the creature's saving throw bonus unless
 its own is higher.
 
@@ -9409,9 +8978,8 @@ Heat metal counters and dispels chill metal.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 239
-Helping Hand
 
+Helping Hand
 
   
 Evocation  
@@ -9477,19 +9045,14 @@ spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-BoED) 6, Arborea (SpC) 6, Feast (ECS) 6###BEGIN_SPELL###
-ECS) 6, Creation (DD) 6, Community (DD) 6, Creation (DF) 6, Community (DF)###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 240
-Heroes' Feast
 
+Heroes' Feast
 
   
 Conjuration (Creation)  
 Level: Bard 6, Cleric 6, Healer 6, Apostle of Peace 6, Fey (BoED) 6, Community
-
 Courage (SpC) 6, Creation (CD) 6, Community (DCS) 6, Community (CD) 6, Renewal
 6, Planning (CW) 6, Gluttony (SpC) 6, Family 6, Courage (CW) 6, Community
-
 Components: V, S, DF,  
 Casting Time: 10 minutes  
 Range: Close (25 ft. + 5 ft./2 levels)  
@@ -9515,9 +9078,8 @@ effects of the spell are negated.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 240
-Heroism
 
+Heroism
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -9539,16 +9101,13 @@ The target gains a +2 morale bonus on attack rolls, saves, and skill checks.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-BoED) 6, Pride 7, Courage (CW) 7, Courage (SpC) 7, Arborea (SpC) 8###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 240
-Heroism, Greater
 
+Heroism, Greater
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
 Level: Bard 5, Sorcerer 6, Wizard 6, Sha'ir 6, Passion (ECS) 6, Passion (DCS)
 6, Eternal Strength 6, Initiate of Hlal (Feat) 6, Revered Ancestor (FE) 6, Joy
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -9565,9 +9124,8 @@ temporary hit points equal to your caster level (maximum 20).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 241
-Hide from Animals
 
+Hide from Animals
 
   
 Abjuration  
@@ -9593,9 +9151,8 @@ spell ends for all recipients.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 241
-Hide from Undead
 
+Hide from Undead
 
   
 Abjuration  
@@ -9626,9 +9183,8 @@ recipients.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 241
-Hold Animal
 
+Hold Animal
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -9649,10 +9205,8 @@ instead of a humanoid.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-BoVD) 6, Mentalism (DCS) 6###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 241
-Hold Monster
 
+Hold Monster
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -9660,7 +9214,6 @@ Level: Thayan Slaver 3, Bard 4, Celebrant of Sharess 4, Urban Druid 4,
 Emissary of Barachiel 4, Duskblade 5, Beguiler 5, Wizard 5, Sha'ir 5, Death
 Master 5, Jester 5, Sorcerer 5, Wu Jen 5, Initiate of Lendys (Feat) 5,
 Greensinger Initiate 5, Warden Initiate 5, Law 6, Mechanus (SpC) 6, Bestial
-
 Components: V, S, M, DF,  
 Casting Time: 1 standard action  
 Range: Medium (100 ft. + 10 ft./level)  
@@ -9679,9 +9232,8 @@ a three-penny nail.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 241
-Hold Monster, Mass
 
+Hold Monster, Mass
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -9702,9 +9254,8 @@ creatures and holds any living creature that fails its Will save.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 241
-Hold Person
 
+Hold Person
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -9734,15 +9285,12 @@ Arcane Focus: A small, straight piece of iron.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-SpC) 7, Mentalism (DCS) 7###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 241
-Hold Person, Mass
 
+Hold Person, Mass
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
 Level: Sorcerer 7, Wizard 7, Beguiler 7, Sha'ir 7, Death Master 7, Mechanus
-
 Components: V, S, M, AF,  
 Casting Time: 1 standard action  
 Range: Medium (100 ft. + 10 ft./level)  
@@ -9758,9 +9306,8 @@ This spell functions like hold person, except as noted above.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 241
-Hold Portal
 
+Hold Portal
 
   
 Abjuration  
@@ -9784,9 +9331,8 @@ the normal DC for forcing open the portal.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 241
-Holy Aura
 
+Holy Aura
 
   
 Abjuration [Good]  
@@ -9828,9 +9374,8 @@ costs at least 500 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 241
-Holy Smite
 
+Holy Smite
 
   
 Evocation [Good]  
@@ -9861,9 +9406,8 @@ to one-quarter of the roll) with a successful Will save.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 242
-Holy Sword
 
+Holy Sword
 
   
 Evocation [Good]  
@@ -9900,15 +9444,12 @@ bonus to attack.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DF) 7, Mysticism (DF) 7 (Good), Exorcism (ECS) 7###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 242
-Holy Word
 
+Holy Word
 
   
 Evocation [Good, Sonic]  
 Level: Cleric 7, Good 7, Elysium (SpC) 7, Mysticism (CD) 7 (Good), Exorcism
-
 Components: V,  
 Casting Time: 1 standard action  
 Range: 40 ft.  
@@ -9950,9 +9491,8 @@ Creatures whose HD exceed your caster level are unaffected by holy word.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 242
-Horrid Wilting
 
+Horrid Wilting
 
   
 Necromancy  
@@ -9978,9 +9518,8 @@ Arcane Material Component: A bit of sponge.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 242
-Hypnotic Pattern
 
+Hypnotic Pattern
 
   
 Illusion (Pattern) [Mind-Affecting]  
@@ -10013,9 +9552,8 @@ phosphorescent material.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 242
-Hypnotism
 
+Hypnotism
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -10054,16 +9592,13 @@ does not remember that you enspelled it.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-CD) 4, Winter (Fr) 4, Windstorm (SpC) 4, Weather (CD) 4, Water 5, Storm (S###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 243
-Ice Storm
 
+Ice Storm
 
   
 Evocation [Cold]  
 Level: Warmage 3, Druid 4, Savant 4 (Arcane), Death Master 4, Sha'ir 4, Wu Jen
 4 (Water), Wizard 4, Sorcerer 4, Gnome Artificer 4, Disciple of Thrym 5, Cold
-
 5, Weather (DD) 5, Storm (DCS) 5,  
 Components: V, S, M, DF,  
 Casting Time: 1 standard action  
@@ -10086,17 +9621,14 @@ Arcane Material Component: A pinch of dust and a few drops of water.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-CD) 1, Divination (DF) 1, Magic 2###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 243
-Identify
 
+Identify
 
   
 Divination  
 Level: Bard 1, Spellthief 1, Magewright 1, Artificer 1, Hexblade 1 (Arcane),
 Court Herald 1, Savant 1 (Arcane), Death Master 1, Sha'ir 1, Vigilante 1,
 Hoardstealer 1, Wizard 1, Sorcerer 1, Urban Adept 1, Merchant Prince 2, Oracle
-
 Components: V, S, M, DF,  
 Casting Time: 1 hour  
 Range: Touch  
@@ -10120,15 +9652,12 @@ spellcasting.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Arcane), Sha'ir 3, Wu Jen 3, Vigilante 3, Wizard 3, Sorcerer 3, Spellthief 3###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 243
-Illusory Script
 
+Illusory Script
 
   
 Illusion (Phantasm) [Mind-Affecting]  
 Level: Ebonmar Infiltrator 2, Bard 3, Magewright 3, Court Herald 3, Savant 3
-
 Components: V, S, M,  
 Casting Time: 1 minute or longer; see text  
 Range: Touch  
@@ -10163,9 +9692,8 @@ Material Component: A lead-based ink (cost of not less than 50 gp).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 243
-Illusory Wall
 
+Illusory Wall
 
   
 Illusion (Figment)  
@@ -10190,10 +9718,8 @@ measures do not cause the illusion to disappear.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-healing) can be transferred. The number and level of spells that the subj###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 243
-Imbue With Spell Ability
 
+Imbue With Spell Ability
 
   
 Evocation  
@@ -10211,7 +9737,6 @@ You transfer some of your currently prepared spells, and the ability to cast
 them, to another creature. Only a creature with an Intelligence score of at
 least 5 and a Wisdom score of at least 9 can receive this bestowal. Only
 cleric spells from the schools of abjuration, divination, and conjuration
-
 can be granted depends on its Hit Dice; even multiple castings of imbue with
 spell ability can't exceed this limit.
 
@@ -10239,9 +9764,8 @@ spell with a material component or focus, it must have the materials or focus.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 243
-Implosion
 
+Implosion
 
   
 Evocation  
@@ -10268,15 +9792,12 @@ creatures.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Earth), Inquisition (CD) 9, Baator (SpC) 9, Cavern (SpC) 9, Gatekee###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 244
-Imprisonment
 
+Imprisonment
 
   
 Abjuration  
 Level: Sorcerer 9, Wizard 9, Wu Jen 9, Sha'ir 9, Urban Druid 9, Shugenja 9
-
 Initiate 9, Treachery (DCS) 9, Cavern (FRCS) 9,  
 Components: V, S,  
 Casting Time: 1 standard action  
@@ -10300,15 +9821,12 @@ life, the target takes a -4 penalty on its save.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Fire), Blighter 9, Fire 8, Initiate of Kossuth (Feat) 8###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 244
-Incendiary Cloud
 
+Incendiary Cloud
 
   
 Conjuration (Creation) [Fire]  
 Level: Sorcerer 8, Wizard 8, Warmage 8, Wu Jen 8 (Fire), Sha'ir 8, Shugenja 8
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: Medium (100 ft. + 10 ft./level)  
@@ -10338,9 +9856,8 @@ underwater.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 244
-Inflict Critical Wounds
 
+Inflict Critical Wounds
 
   
 Necromancy  
@@ -10361,9 +9878,8 @@ points of damage +1 point per caster level (maximum +20).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 244
-Inflict Critical Wounds, Mass
 
+Inflict Critical Wounds, Mass
 
   
 Necromancy  
@@ -10383,9 +9899,8 @@ points of damage +1 point per caster level (maximum +40).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 244
-Inflict Light Wounds
 
+Inflict Light Wounds
 
   
 Necromancy  
@@ -10409,9 +9924,8 @@ of a like amount of damage, rather than harming it.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 244
-Inflict Light Wounds, Mass
 
+Inflict Light Wounds, Mass
 
   
 Necromancy  
@@ -10436,9 +9950,8 @@ spells can also spontaneously cast mass inflict spells.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 244
-Inflict Minor Wounds
 
+Inflict Minor Wounds
 
   
 Necromancy  
@@ -10458,9 +9971,8 @@ of damage and a Will save negates the damage instead of halving it.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 244
-Inflict Moderate Wounds
 
+Inflict Moderate Wounds
 
   
 Necromancy  
@@ -10481,9 +9993,8 @@ points of damage +1 point per caster level (maximum +10).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 244
-Inflict Moderate Wounds, Mass
 
+Inflict Moderate Wounds, Mass
 
   
 Necromancy  
@@ -10503,9 +10014,8 @@ points of damage +1 point per caster level (maximum +30).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 244
-Inflict Serious Wounds
 
+Inflict Serious Wounds
 
   
 Necromancy  
@@ -10526,9 +10036,8 @@ points of damage +1 point per caster level (maximum +15).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 244
-Inflict Serious Wounds, Mass
 
+Inflict Serious Wounds, Mass
 
   
 Necromancy  
@@ -10548,18 +10057,13 @@ points of damage +1 point per caster level (maximum +35).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-FRCS) 7###BEGIN_SPELL###
-DF) 7, Madness (CD) 7, Corruption (BoVD) 7, Moon 7, Charm (DD) 7, Ch###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 244
-Insanity
 
+Insanity
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
 Level: Jester 6, Sorcerer 7, Wizard 7, Sha'ir 7, Limbo (SpC) 6, Entropy (FC1)
 7, Corruption (FC1) 7, Madness (ECS) 7, Charm (ECS) 7, Madness (DD) 7, Madness
-
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: Medium (100 ft. + 10 ft./level)  
@@ -10578,9 +10082,8 @@ wish, miracle, or wish can restore the creature.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 244
-Insect Plague
 
+Insect Plague
 
   
 Conjuration (Summoning)  
@@ -10608,9 +10111,8 @@ See the Monster Manual for details on locust swarms.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 245
-Invisibility
 
+Invisibility
 
   
 Illusion (Glamer)  
@@ -10666,9 +10168,8 @@ Arcane Material Component: An eyelash encased in a bit of gum arabic.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 245
-Invisibility, Greater
 
+Invisibility, Greater
 
   
 Illusion (Glamer)  
@@ -10691,9 +10192,8 @@ subject attacks.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 245
-Invisibility, Mass
 
+Invisibility, Mass
 
   
 Illusion (Glamer)  
@@ -10722,9 +10222,8 @@ Material Component: An eyelash encased in a bit of gum arabic.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 245
-Invisibility Purge
 
+Invisibility Purge
 
   
 Evocation  
@@ -10744,9 +10243,8 @@ becomes visible while in the area.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 245
-Invisibility Sphere
 
+Invisibility Sphere
 
   
 Illusion (Glamer)  
@@ -10776,9 +10274,8 @@ the invisibility sphere ends.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 245
-Iron Body
 
+Iron Body
 
   
 Transmutation  
@@ -10821,9 +10318,8 @@ an iron golem, a hero's armor, or a war machine.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 246
-Ironwood
 
+Ironwood
 
   
 Transmutation  
@@ -10856,9 +10352,8 @@ Material Component: Wood shaped into the form of the intended ironwood object.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 246
-Jump
 
+Jump
 
   
 Transmutation  
@@ -10885,9 +10380,8 @@ is cast.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 246
-Keen Edge
 
+Keen Edge
 
   
 Transmutation  
@@ -10920,10 +10414,8 @@ on a natural weapon, such as a claw.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-for example, a standard 4-foot-by-7-foot door). Each spell can undo as m###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 246
-Knock
 
+Knock
 
   
 Transmutation  
@@ -10949,16 +10441,14 @@ cases, the door does not relock itself or become stuck again on its own. Knock
 does not raise barred gates or similar impediments (such as a portcullis), nor
 does it affect ropes, vines, and the like. The effect is limited by the area.
 A 3rd-level caster can cast a knock spell on a door of 30 square feet or less
-
 as two means of preventing egress. Thus if a door is locked, barred, and held,
 or quadruple locked, opening it requires two knock spells.
 
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 246
-Know Direction
 
+Know Direction
 
   
 Divination  
@@ -10980,17 +10470,13 @@ external reference point to help you keep track of direction.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-if any) about the person, place, or things to your mind. These may be lege###BEGIN_SPELL###
-DF) 6, Knowledge 7, Time 7, Ancestor (OA) 7###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 246
-Legend Lore
 
+Legend Lore
 
   
 Divination  
 Level: Bard 4, Vigilante 4, Urban Druid 4, Consecrated Harrier 4, Urban Adept
 4, Sorcerer 6, Wizard 6, Sha'ir 6, Court Herald 6, Oracle (CD) 6, Divination
-
 Components: V, S, M, AF,  
 Casting Time: See text  
 Range: Personal  
@@ -11011,7 +10497,6 @@ lore result next time).
 
 During the casting, you cannot engage in other than routine activities:
 eating, sleeping, and so forth. When completed, the divination brings legends
-
 that are still current, legends that have been forgotten, or even information
 that has never been generally known. If the person, place, or thing is not of
 legendary importance, you gain no information. As a rule of thumb, characters
@@ -11045,15 +10530,12 @@ Focus: Four strips of ivory (worth 50 gp each) formed into a rectangle.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Dr) 5, Commerce 6###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 247
-Leomund's Secret Chest
 
+Leomund's Secret Chest
 
   
 Conjuration (Summoning)  
 Level: Sorcerer 5, Wizard 5, Sha'ir 5, Urban Druid 5, Magewright 5, Wealth
-
 Components: V, S, AF,  
 Casting Time: 10 minutes  
 Range: See text  
@@ -11099,9 +10581,8 @@ Focus: The chest and its replica.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 247
-Leomund's Secure Shelter
 
+Leomund's Secure Shelter
 
   
 Conjuration (Creation)  
@@ -11149,9 +10630,8 @@ benefit is to be included.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 247
-Leomund's Tiny Hut
 
+Leomund's Tiny Hut
 
   
 Evocation [Force]  
@@ -11192,9 +10672,8 @@ expires or the hut is dispelled.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 247
-Leomund's Trap
 
+Leomund's Trap
 
   
 Illusion (Glamer)  
@@ -11227,9 +10706,8 @@ prepare.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 248
-Levitate
 
+Levitate
 
   
 Transmutation  
@@ -11264,9 +10742,8 @@ shape with a long shank on one end.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 248
-Light
 
+Light
 
   
 Evocation [Light]  
@@ -11297,9 +10774,8 @@ Arcane Material Component: A firefly or a piece of phosphorescent moss.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 248
-Lightning Bolt
 
+Lightning Bolt
 
   
 Evocation [Electricity]  
@@ -11330,9 +10806,8 @@ Material Component: A bit of fur and an amber, crystal, or glass rod.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 248
-Limited Wish
 
+Limited Wish
 
   
 Universal  
@@ -11367,9 +10842,8 @@ XP Cost: 300 XP or more (see above).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 248
-Liveoak
 
+Liveoak
 
   
 Transmutation  
@@ -11404,9 +10878,8 @@ before taking root.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 249
-Locate Creature
 
+Locate Creature
 
   
 Divination  
@@ -11443,9 +10916,8 @@ Material Component: A bit of fur from a bloodhound.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 249
-Locate Object
 
+Locate Object
 
   
 Divination  
@@ -11481,9 +10953,8 @@ Arcane Focus: A forked twig.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 249
-Longstrider
 
+Longstrider
 
   
 Transmutation  
@@ -11505,9 +10976,8 @@ Material Component: A pinch of dirt.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 249
-Lullaby
 
+Lullaby
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -11530,9 +11000,8 @@ thereafter.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 249
-Mage Armor
 
+Mage Armor
 
   
 Conjuration (Creation) [Force]  
@@ -11558,9 +11027,8 @@ Focus: A piece of cured leather.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 249
-Mage Hand
 
+Mage Hand
 
   
 Transmutation  
@@ -11584,9 +11052,8 @@ ever exceeds the spell's range.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 249
-Magic Circle Against Chaos
 
+Magic Circle Against Chaos
 
   
 Abjuration [Lawful]  
@@ -11609,9 +11076,8 @@ a nonlawful called creature.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 249
-Magic Circle Against Evil
 
+Magic Circle Against Evil
 
   
 Abjuration [Good]  
@@ -11692,9 +11158,8 @@ warded.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 250
-Magic Circle Against Good
 
+Magic Circle Against Good
 
   
 Abjuration [Evil]  
@@ -11718,9 +11183,8 @@ nonevil called creature.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 250
-Magic Circle Against Law
 
+Magic Circle Against Law
 
   
 Abjuration [Chaotic]  
@@ -11743,9 +11207,8 @@ nonchaotic called creature.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 250
-Magic Fang
 
+Magic Fang
 
   
 Transmutation  
@@ -11771,9 +11234,8 @@ Magic fang can be made permanent with a permanency spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 250
-Magic Fang, Greater
 
+Magic Fang, Greater
 
   
 Transmutation  
@@ -11801,9 +11263,8 @@ Greater magic fang can be made permanent with a permanency spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 250
-Magic Jar
 
+Magic Jar
 
   
 Necromancy  
@@ -11885,9 +11346,8 @@ Focus: A gem or crystal worth at least 100 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 251
-Magic Missile
 
+Magic Missile
 
   
 Evocation [Force]  
@@ -11919,9 +11379,8 @@ roll damage.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 251
-Magic Mouth
 
+Magic Mouth
 
   
 Illusion (Glamer)  
@@ -11973,10 +11432,8 @@ Material Component: A small bit of honeycomb and jade dust worth 10 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-range increment 50 feet). The spell gives them a +1 enhancement bonus###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 251
-Magic Stone
 
+Magic Stone
 
   
 Transmutation  
@@ -11994,7 +11451,6 @@ Spell Resistance: Yes (harmless, object)
 You transmute as many as three pebbles, which can be no larger than sling
 bullets, so that they strike with great force when thrown or slung. If hurled,
 they have a range increment of 20 feet. If slung, treat them as sling bullets
-
 attack and damage rolls. The user of the stones makes a normal ranged attack.
 Each stone that hits deals 1d6+1 points of damage (including the spell's
 enhancement bonus), or 2d6+2 points against undead.
@@ -12002,17 +11458,14 @@ enhancement bonus), or 2d6+2 points against undead.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DD) 3###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 251
-Magic Vestment
 
+Magic Vestment
 
   
 Transmutation  
 Level: Artificer 1, Cleric 3, Knight of the Chalice 3, Savant 3 (Divine),
 Justiciar of Taiia 3, Apostle of Peace 3, Strength 3, War 3, Celestia (SpC) 3,
 Halfling (SpC) 3, Nobility (CW) 3, Initiate of Tchazzar (Feat) 3, Nobility
-
 Components: V, S, DF,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -12029,11 +11482,8 @@ as armor that grants no AC bonus for the purpose of this spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-instead, see magic fang). A monk's unarmed strike is considered a weapon, ###BEGIN_SPELL###
-DCS) 1###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 251
-Magic Weapon
 
+Magic Weapon
 
   
 Transmutation  
@@ -12043,7 +11493,6 @@ Spellthief 1, Shugenja 1 (Earth), Death Master 1, Sha'ir 1, Paladin 1,
 Sorcerer 1, Wizard 1, Disciple of Thrym 1, Hunter of the Dead 1, Knight of the
 Weave 1, Knight of the Chalice 1, Duskblade 1, Wu Jen 1 (Metal), Champion of
 Gwynharwyf 1, War 1, Dwarf (SpC) 1, Metal 1, Revered Ancestor (FE) 1, Forge
-
 Components: V, S, DF,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -12058,16 +11507,13 @@ Magic weapon gives a weapon a +1 enhancement bonus on attack and damage rolls.
 attack rolls).
 
 You can't cast this spell on a natural weapon, such as an unarmed strike
-
 thus it can be enhanced by this spell.
 
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-maximum +###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 251
-Magic Weapon, Greater
 
+Magic Weapon, Greater
 
   
 Transmutation  
@@ -12090,7 +11536,6 @@ Spell Resistance: Yes (harmless, object)
 This spell functions like magic weapon, except that it gives a weapon an
 enhancement bonus on attack and damage rolls of +1 per four caster levels
 
-
 Alternatively, you can affect as many as fifty arrows, bolts, or bullets. The
 projectiles must be of the same kind, and they have to be together (in the
 same quiver or other container). Projectiles, but not thrown weapons, lose
@@ -12102,17 +11547,14 @@ Arcane Material Component: Powdered lime and carbon.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-ECS) 6, Craft (SpC) 7, Craft (FRCS) 7###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 252
-Major Creation
 
+Major Creation
 
   
 Conjuration (Creation)  
 Level: Sorcerer 5, Magewright 5, Artificer 5, Court Herald 5, Urban Druid 5,
 Sha'ir 5, Wu Jen 5, Adept 5, Wizard 5, Urban Adept 5, Creation (CD) 5,
 Creation (DF) 5, Creation (DD) 5, Forge (DCS) 6, Artifice (DD) 6, Artifice
-
 Components: V, S, M,  
 Casting Time: 10 minutes  
 Range: Close (25 ft. + 5 ft./2 levels)  
@@ -12140,9 +11582,8 @@ details.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 252
-Major Image
 
+Major Image
 
   
 Illusion (Figment)  
@@ -12168,10 +11609,8 @@ to react appropriately.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-including construct###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 252
-Make Whole
 
+Make Whole
 
   
 Transmutation  
@@ -12193,13 +11632,11 @@ magic item made whole, and it cannot mend broken magic rods, staffs, or wands.
 The spell does not repair items that have been warped, burned, disintegrated,
 ground to powder, melted, or vaporized, nor does it affect creatures
 
-
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 252
-Mark of Justice
 
+Mark of Justice
 
   
 Necromancy  
@@ -12236,9 +11673,8 @@ regardless of whether the mark has activated.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 252
-Maze
 
+Maze
 
   
 Conjuration (Teleportation)  
@@ -12270,9 +11706,8 @@ Minotaurs are not affected by this spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 252
-Meld Into Stone
 
+Meld Into Stone
 
   
 Transmutation [Earth]  
@@ -12315,15 +11750,12 @@ without damage.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Arcane), Gnome Artificer 2, Slime 2###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 253
-Melf's Acid Arrow
 
+Melf's Acid Arrow
 
   
 Conjuration (Creation) [Acid]  
 Level: Sorcerer 2, Wizard 2, Warmage 2, Duskblade 2, Sha'ir 2, Savant 2
-
 Components: V, S, M, AF,  
 Casting Time: 1 standard action  
 Range: Long (400 ft. + 40 ft./level)  
@@ -12346,10 +11778,8 @@ Focus: A dart.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-including construct###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 253
-Mending
 
+Mending
 
   
 Transmutation  
@@ -12376,13 +11806,11 @@ item's magical abilities are not restored. (For restoring a broken magic
 item's abilities, see the item creation feats in Chapter 5: Feats). The spell
 cannot mend broken magic rods, staffs, or wands, nor does it affect creatures
 
-
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 253
-Message
 
+Message
 
   
 Transmutation [Language-Dependent]  
@@ -12417,9 +11845,8 @@ Focus: A short piece of copper wire.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 253
-Meteor Swarm
 
+Meteor Swarm
 
   
 Evocation [Fire]  
@@ -12453,9 +11880,8 @@ each. (Fire resistance applies to each sphere's damage individually).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 253
-Mind Blank
 
+Mind Blank
 
   
 Abjuration  
@@ -12486,10 +11912,8 @@ not work at all.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-or until dispersed by win###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 253
-Mind Fog
 
+Mind Fog
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -12511,7 +11935,6 @@ fog is not affected and need not make further saves even if it remains in the
 fog). Affected creatures take the penalty as long as they remain in the fog
 and for 2d6 rounds thereafter. The fog is stationary and lasts for 30 minutes
 
-
 A moderate wind (11+ mph) disperses the fog in four rounds; a strong wind (21+
 mph) disperses the fog in 1 round.
 
@@ -12520,19 +11943,14 @@ The fog is thin and does not significantly hamper vision.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-FRCS) 4###BEGIN_SPELL###
-Arcane), Urban Druid 4, Jester 4, Sha'ir 4, Wu Jen 4, Adept 4, Wizard###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 253
-Minor Creation
 
+Minor Creation
 
   
 Conjuration (Creation)  
 Level: Sorcerer 4, Magewright 4, Artificer 4, Court Herald 4, Savant 4
-
 Urban Adept 4, Craft (SpC) 4, Gnome 4, Forge (DCS) 4, Creation (CD) 4,
 Creation (DF) 4, Artifice (DD) 4, Creation (DD) 4, Artifice (ECS) 4, Craft
-
 Components: V, S, M,  
 Casting Time: 1 minute  
 Range: 0 ft.  
@@ -12559,9 +11977,8 @@ forth.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 253
-Minor Image
 
+Minor Image
 
   
 Illusion (Figment)  
@@ -12584,9 +12001,8 @@ minor sounds but not understandable speech.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 254
-Miracle
 
+Miracle
 
   
 Evocation  
@@ -12639,9 +12055,8 @@ XP Cost: 5,000 XP (for some uses of the miracle spell; see above).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 254
-Mirage Arcana
 
+Mirage Arcana
 
   
 Illusion (Glamer)  
@@ -12665,10 +12080,8 @@ they can hide themselves within a real location).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-maximum eight images total). These figments separate from you and remain i###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 254
-Mirror Image
 
+Mirror Image
 
   
 Illusion (Figment)  
@@ -12687,7 +12100,6 @@ enemies to know which target to attack. The figments stay near you and
 disappear when struck.
 
 Mirror image creates 1d4 images plus one image per three caster levels
-
 cluster, each within 5 feet of at least one other figment or you. You can move
 into and through a mirror image. When you and the mirror image separate,
 observers can't use vision or hearing to tell which one is you and which the
@@ -12712,9 +12124,8 @@ to see carries the same penalties as being blinded).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 254
-Misdirection
 
+Misdirection
 
   
 Illusion (Glamer)  
@@ -12747,9 +12158,8 @@ clairaudience/clairvoyance, and the like).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 255
-Mislead
 
+Mislead
 
   
 Illusion (Figment and Glamer)  
@@ -12785,9 +12195,8 @@ round per level, regardless of concentration.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 255
-Modify Memory
 
+Modify Memory
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -12831,9 +12240,8 @@ nonsensical to significantly affect the subject.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 255
-Moment of Prescience
 
+Moment of Prescience
 
   
 Divination  
@@ -12863,9 +12271,8 @@ time.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 255
-Mordenkainen's Disjunction
 
+Mordenkainen's Disjunction
 
   
 Abjuration  
@@ -12904,9 +12311,8 @@ connection with the device.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 255
-Mordenkainen's Faithful Hound
 
+Mordenkainen's Faithful Hound
 
   
 Conjuration (Creation)  
@@ -12947,9 +12353,8 @@ Material Component: A tiny silver whistle, a piece of bone, and a thread.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 256
-Mordenkainen's Lucubration
 
+Mordenkainen's Lucubration
 
   
 Transmutation  
@@ -12971,9 +12376,8 @@ are available.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 256
-Mordenkainen's Magnificent Mansion
 
+Mordenkainen's Magnificent Mansion
 
   
 Conjuration (Creation)  
@@ -13013,9 +12417,8 @@ and a tiny silver spoon (each item worth 5 gp).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 256
-Mordenkainen's Private Sanctum
 
+Mordenkainen's Private Sanctum
 
   
 Abjuration  
@@ -13051,9 +12454,8 @@ cotton or cloth, and powdered chrysolite.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 256
-Mordenkainen's Sword
 
+Mordenkainen's Sword
 
   
 Evocation [Force]  
@@ -13099,9 +12501,8 @@ It costs 250 gp to construct.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 256
-Mount
 
+Mount
 
   
 Conjuration (Summoning)  
@@ -13125,9 +12526,8 @@ Material Component: A bit of horse hair.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 257
-Move Earth
 
+Move Earth
 
   
 Transmutation [Earth]  
@@ -13167,9 +12567,8 @@ and an iron blade.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 257
-Neutralize Poison
 
+Neutralize Poison
 
   
 Conjuration (Healing)  
@@ -13209,9 +12608,8 @@ Arcane Material Component: A bit of charcoal.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 257
-Nightmare
 
+Nightmare
 
   
 Illusion (Phantasm) [Evil, Mind-Affecting]  
@@ -13271,9 +12669,8 @@ immune to this spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 257
-Nondetection
 
+Nondetection
 
   
 Abjuration  
@@ -13308,9 +12705,8 @@ Material Component: A pinch of diamond dust worth 50 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 257
-Nystul's Magic Aura
 
+Nystul's Magic Aura
 
   
 Illusion (Glamer)  
@@ -13350,11 +12746,8 @@ receives the aura.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-if the divination is targeted on a nearby location, object, or perso###BEGIN_SPELL###
-if the divination is targeted on the object) or fails to perceive the obj###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 258
-Obscure Object
 
+Obscure Object
 
   
 Abjuration  
@@ -13373,27 +12766,20 @@ Spell Resistance: Yes (object)
 This spell hides an object from location by divination (scrying) effects, such
 as the scrying spell or a crystal ball. Such an attempt automatically fails
 
-
-
 Arcane Material Component: A piece of chameleon skin.
 
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DD) 1, Shadow (ECS) 1, Weather (ECS) 1, Darkness (FRCS) 1###BEGIN_SPELL###
-Water), Duskblade 1, Druid 1, Sorcerer 1, Wizard 1, Adept 1, Disciple###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 258
-Obscuring Mist
 
+Obscuring Mist
 
   
 Conjuration (Creation)  
 Level: Cleric 1, Sha'ir 1, Death Master 1, Jester 1, Urban Druid 1, Assassin
 1, Gnome Artificer 1, Shugenja 1 (Water), Apostle of Peace 1, Wu Jen 1
-
 Thrym 1, Ebonmar Infiltrator 1, Slayer of Domiel 1, Beguiler 1, Urban Adept 1,
 Air 1, Water 1, Windstorm (SpC) 1, Weather (CD) 1, Darkness (DD) 1, Weather
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: 20 ft.  
@@ -13420,9 +12806,8 @@ This spell does not function underwater.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 258
-Open/close
 
+Open/close
 
   
 Transmutation  
@@ -13449,9 +12834,8 @@ Focus: A brass key.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 258
-Order's Wrath
 
+Order's Wrath
 
   
 Evocation [Lawful]  
@@ -13481,10 +12865,8 @@ to one-quarter of the roll) with a successful Will save.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-maximum 15d6) to each creature in the area. An elemental (water) creat###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 258
-Otiluke's Freezing Sphere
 
+Otiluke's Freezing Sphere
 
   
 Evocation [Cold]  
@@ -13501,7 +12883,6 @@ Spell Resistance: Yes
 Otiluke's Freezing sphere creates a frigid globe of cold energy that streaks
 from your fingertips to the location you select, where it explodes in a 10
 -foot-radius burst, dealing 1d6 points of cold damage per caster level
-
 instead takes 1d8 points of cold damage per caster level (maximum 15d8).
 
 If the freezing sphere strikes a body of water or a liquid that is principally
@@ -13525,9 +12906,8 @@ Focus: A small crystal sphere.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 258
-Otiluke's Resilient Sphere
 
+Otiluke's Resilient Sphere
 
   
 Evocation [Force]  
@@ -13557,9 +12937,8 @@ hemispherical piece of gum arabic.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 259
-Otiluke's Telekinetic Sphere
 
+Otiluke's Telekinetic Sphere
 
   
 Evocation [Force]  
@@ -13603,9 +12982,8 @@ hemispherical piece of gum arabic, and a pair of small bar magnets.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 259
-Otto's Irresistible Dance
 
+Otto's Irresistible Dance
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -13630,9 +13008,8 @@ provokes attacks of opportunity each round on its turn.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 259
-Overland Flight
 
+Overland Flight
 
   
 Transmutation  
@@ -13657,9 +13034,8 @@ page 164 for more on overland movement.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 259
-Owl's Wisdom
 
+Owl's Wisdom
 
   
 Transmutation  
@@ -13690,9 +13066,8 @@ owl.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 259
-Owl's Wisdom, Mass
 
+Owl's Wisdom, Mass
 
   
 Transmutation  
@@ -13713,15 +13088,12 @@ creatures.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Earth), Cavern (SpC) 5, Law Inviolate 5, Cavern (FRCS) 5###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 259
-Passwall
 
+Passwall
 
   
 Transmutation  
 Level: Sorcerer 5, Wizard 5, Wu Jen 5, Sha'ir 5, Urban Druid 5, Shugenja 5
-
 Components: V, S, M,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -13748,9 +13120,8 @@ Material Component: A pinch of sesame seeds.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 259
-Pass Without Trace
 
+Pass Without Trace
 
   
 Transmutation  
@@ -13773,9 +13144,8 @@ impossible by nonmagical means.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 259
-Permanency
 
+Permanency
 
   
 Universal  
@@ -13873,9 +13243,8 @@ XP Cost: See tables above.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 260
-Permanent Image
 
+Permanent Image
 
   
 Illusion (Figment)  
@@ -13901,9 +13270,8 @@ Material Component: A bit of fleece plus powdered jade worth 100 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 260
-Persistent Image
 
+Persistent Image
 
   
 Illusion (Figment)  
@@ -13931,9 +13299,8 @@ Material Component: A bit of fleece and several grains of sand.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 260
-Phantasmal Killer
 
+Phantasmal Killer
 
   
 Illusion (Phantasm) [Fear, Mind-Affecting]  
@@ -13966,15 +13333,12 @@ disbelieve it or become subject to its deadly fear attack.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Arcane), Sha'ir 3, Knight of the Weave 3, Wizard 3, Sorcerer 3, Merch###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 260
-Phantom Steed
 
+Phantom Steed
 
   
 Conjuration (Creation)  
 Level: Bard 3, Magewright 3, Hexblade 3 (Arcane), Death Master 3, Savant 3
-
 Prince 3, Spider (SpC) 3,  
 Components: V, S,  
 Casting Time: 10 minutes  
@@ -14018,9 +13382,8 @@ falls to the ground.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 261
-Phase Door
 
+Phase Door
 
   
 Conjuration (Creation)  
@@ -14061,9 +13424,8 @@ Phase door can be made permanent with a permanency spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 261
-Planar Ally
 
+Planar Ally
 
   
 Conjuration (Calling) [see text for lesser planar ally]  
@@ -14090,15 +13452,12 @@ XP Cost: 250 XP.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DF) 8, Dragon Below (ECS) 8, Drow (FRCS) 8###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 261
-Planar Ally, Greater
 
+Planar Ally, Greater
 
   
 Conjuration (Calling) [see text for lesser planar ally]  
 Level: Cleric 8, Apostle of Peace 8, Drow (SpC) 8, Summoner (CD) 8, Summoning
-
 Components: V, S, DF, XP,  
 Casting Time: 10 minutes  
 Range: Close (25 ft. + 5 ft./2 levels)  
@@ -14119,16 +13478,13 @@ XP Cost: 500 XP.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-ECS) 4###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 261
-Planar Ally, Lesser
 
+Planar Ally, Lesser
 
   
 Conjuration (Calling) [see text]  
 Level: Cleric 4, Knight of the Chalice 4, Soldier of Light 4, Apostle of Peace
 4, Lust 4, Summoner (CD) 4, Celestial (BoED) 4, Summoning (DF) 4, Dragon Below
-
 Components: V, S, DF, XP,  
 Casting Time: 10 minutes  
 Range: Close (25 ft. + 5 ft./2 levels)  
@@ -14186,16 +13542,13 @@ XP Cost: 100 XP.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-BoVD) 6, Diabolic (FC2) 6###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 261
-Planar Binding
 
+Planar Binding
 
   
 Conjuration (Calling) [see text for lesser planar binding]  
 Level: Demonologist 4, Sorcerer 6, Wizard 6, Nar Demonbinder 6, Hathran 6,
 Sha'ir 6, Dread Necromancer 6, Demonic (BoVD) 6, Demonic (FC1) 6, Diabolic
-
 Components: V, S,  
 Casting Time: 10 minutes  
 Range: Close (25 ft. + 5 ft./2 levels)  
@@ -14214,15 +13567,12 @@ independent attempt to escape, and must be individually persuaded to aid you.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-FC1) 8###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 261
-Planar Binding, Greater
 
+Planar Binding, Greater
 
   
 Conjuration (Calling) [see text for lesser planar binding]  
 Level: Sorcerer 8, Wizard 8, Nar Demonbinder 8, Hathran 8, Sha'ir 8, Demonic
-
 Components: V, S,  
 Casting Time: 10 minutes  
 Range: Close (25 ft. + 5 ft./2 levels)  
@@ -14241,9 +13591,8 @@ independent attempts to escape, and must be persuaded to aid you individually.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 261
-Planar Binding, Lesser
 
+Planar Binding, Lesser
 
   
 Conjuration (Calling) [see text]  
@@ -14308,9 +13657,8 @@ planar binding is a water spell when you cast it to call a water elemental.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 262
-Plane Shift
 
+Plane Shift
 
   
 Conjuration (Teleportation)  
@@ -14343,9 +13691,8 @@ to come by, as decided by the DM.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 262
-Plant Growth
 
+Plant Growth
 
   
 Transmutation  
@@ -14386,17 +13733,14 @@ This spell has no effect on plant creatures.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-CD) 4, Scalykind (PG) 4, Pestilence (DF) 4, Scalykind (DD) 4###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 262
-Poison
 
+Poison
 
   
 Necromancy  
 Level: Druid 3, Warmage 3, Blighter 3, Death Master 3, Urban Druid 3, Hexblade
 3 (Arcane), Cleric 4, Dread Necromancer 4, Paladin of Slaughter 4, Slime 3,
 Ooze (FC1) 3, Abyss (SpC) 4, Scalykind (SpC) 4, Pestilence (DCS) 4, Pestilence
-
 Components: V, S, DF,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -14416,9 +13760,8 @@ your Wis modifier).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 262
-Polar Ray
 
+Polar Ray
 
   
 Evocation [Cold]  
@@ -14441,9 +13784,8 @@ Focus: A small, white ceramic cone or prism.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 263
-Polymorph
 
+Polymorph
 
   
 Transmutation  
@@ -14492,9 +13834,8 @@ Material Component: An empty cocoon.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 263
-Polymorph Any Object
 
+Polymorph Any Object
 
   
 Transmutation  
@@ -14564,9 +13905,8 @@ Arcane Material Component: Mercury, gum arabic, and smoke.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 263
-Power Word Blind
 
+Power Word Blind
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -14595,9 +13935,8 @@ Hit Points  | Duration
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 263
-Power Word Kill
 
+Power Word Kill
 
   
 Enchantment (Compulsion) [Death, Mind-Affecting]  
@@ -14619,9 +13958,8 @@ currently has 101 or more hit points is unaffected by power word kill.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 263
-Power Word Stun
 
+Power Word Stun
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -14651,9 +13989,8 @@ Hit Points  | Duration
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 264
-Prayer
 
+Prayer
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -14680,9 +14017,8 @@ foes takes a -1 penalty on such rolls.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 264
-Prestidigitation
 
+Prestidigitation
 
   
 Universal  
@@ -14722,9 +14058,8 @@ little whirlwinds to sweep dust under rugs.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 264
-Prismatic Sphere
 
+Prismatic Sphere
 
   
 Abjuration  
@@ -14788,9 +14123,8 @@ render some colors ineffective (see above).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 264
-Prismatic Spray
 
+Prismatic Spray
 
   
 Evocation  
@@ -14825,9 +14159,8 @@ damage instead)
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 264
-Prismatic Wall
 
+Prismatic Wall
 
   
 Abjuration  
@@ -14894,9 +14227,8 @@ render some colors ineffective (see above).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 265
-Produce Flame
 
+Produce Flame
 
   
 Evocation [Fire]  
@@ -14928,9 +14260,8 @@ This spell does not function underwater.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 265
-Programmed Image
 
+Programmed Image
 
   
 Illusion (Figment)  
@@ -14962,9 +14293,8 @@ Material Component: A bit of fleece and jade dust worth 25 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 265
-Project Image
 
+Project Image
 
   
 Illusion (Shadow)  
@@ -15007,9 +14337,8 @@ create.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 266
-Protection from Arrows
 
+Protection from Arrows
 
   
 Abjuration  
@@ -15035,9 +14364,8 @@ Focus: A piece of shell from a tortoise or a turtle.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 266
-Protection from Chaos
 
+Protection from Chaos
 
   
 Abjuration [Lawful]  
@@ -15061,16 +14389,13 @@ summoned creatures cannot touch the subject.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Arcane), Cleric 3, Spellthief 3, Shugenja 3 (All), Wu Jen 3 (All), De###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 266
-Protection from Energy
 
+Protection from Energy
 
   
 Abjuration  
 Level: Trapsmith 1, Consecrated Harrier 2, Ranger 2, Urban Ranger 2,
 Runescarred Berserker 2, Sha'ir 3, Death Master 3, Urban Druid 3, Hexblade 3
-
 Delver 3, Duskblade 3, Druid 3, Sorcerer 3, Wizard 3, Hoardstealer 3, Hunter
 of the Dead 3, Vassal of Bahamut 3, Knight of the Chalice 3, Fatemaker 3,
 Apostle of Peace 3, Luck 3, Protection 3,  
@@ -15095,10 +14420,8 @@ protection spell absorbs damage until its power is exhausted.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-including enchantment (charm) effects and enchantment (compulsion) effe###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 266
-Protection from Evil
 
+Protection from Evil
 
   
 Abjuration [Good]  
@@ -15129,7 +14452,6 @@ evil creatures.
 
 Second, the barrier blocks any attempt to possess the warded creature (by a
 magic jar attack, for example) or to exercise mental control over the creature
-
 that grant the caster ongoing control over the subject, such as dominate
 person). The protection does not prevent such effects from targeting the
 protected creature, but it suppresses the effect for the duration of the
@@ -15154,16 +14476,13 @@ warded.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Divine), Sha'ir 1, Divine Bard 1, Runescarred Berserker 1, Disciple of Th###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 266
-Protection from Good
 
+Protection from Good
 
   
 Abjuration [Evil]  
 Level: Cleric 1, Wu Jen 1, Spellthief 1, Paladin of Tyranny 1, Paladin of
 Slaughter 1, Hexblade 1 (Arcane), Demonologist 1, Death Master 1, Savant 1
-
 1, Adept 1, Wizard 1, Sorcerer 1, Urban Adept 1, Evil 1, Hades (SpC) 1,
 Edgewalker Sentinel 1, Diabolic (FC2) 1,  
 Components: V, S, M, DF,  
@@ -15182,15 +14501,12 @@ creatures cannot touch the subject.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Arcane), Savant 1 (Divine), Sha'ir 1, Divine Bard 1, Runescarred Berserker###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 266
-Protection from Law
 
+Protection from Law
 
   
 Abjuration [Chaotic]  
 Level: Cleric 1, Wu Jen 1, Spellthief 1, Paladin of Slaughter 1, Hexblade 1
-
 Disciple of Thrym 1, Adept 1, Wizard 1, Sorcerer 1, Urban Adept 1, Chaos 1,
 Limbo (SpC) 1, Edgewalker Sentinel 1,  
 Components: V, S, M, DF,  
@@ -15208,9 +14524,8 @@ creatures cannot touch the subject.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 266
-Protection from Spells
 
+Protection from Spells
 
   
 Abjuration  
@@ -15239,10 +14554,8 @@ loses the gem, the spell ceases to affect him.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-normal vision only) in all directio###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 266
-Prying Eyes
 
+Prying Eyes
 
   
 Divination  
@@ -15260,7 +14573,6 @@ Spell Resistance: No
 You create a number of semitangible, visible magical orbs (called "eyes")
 equal to 1d4 + your caster level. These eyes move out, scout around, and
 return as you direct them when casting the spell. Each eye can see 120 feet
-
 
 While the individual eyes are quite fragile, they're small and difficult to
 spot. Each eye is a Fine construct, about the size of a small apple, that has
@@ -15315,9 +14627,8 @@ Material Component: A handful of crystal marbles.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 267
-Prying Eyes, Greater
 
+Prying Eyes, Greater
 
   
 Divination  
@@ -15339,15 +14650,12 @@ greater prying eye's maximum Spot modifier is +25 instead of +15.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Water), Apostle of Peace 0, Urban Adept 0, Merchant Prince 1###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 267
-Purify Food and Drink
 
+Purify Food and Drink
 
   
 Transmutation  
 Level: Cleric 0, Druid 0, Adept 0, Healer 0, Urban Druid 0, Shugenja 0
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: 10 ft.  
@@ -15369,9 +14677,8 @@ roughly 8 gallons and weighs about 60 pounds.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 267
-Pyrotechnics
 
+Pyrotechnics
 
   
 Transmutation  
@@ -15413,15 +14720,12 @@ per caster level.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Fire)###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 267
-Quench
 
+Quench
 
   
 Transmutation  
 Level: Druid 3, Nentyar Hunter 3, Urban Druid 3, Gnome Artificer 4, Shugenja 4
-
 Components: V, S, DF,  
 Casting Time: 1 standard action  
 Range: Medium (100 ft. + 10 ft./level)  
@@ -15448,17 +14752,14 @@ a Will save. (Artifacts are immune to this effect).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-LoM) 3, Hatred 4###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 268
-Rage
 
+Rage
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
 Level: Bard 2, Hexblade 2 (Arcane), Celebrant of Sharess 2, Sorcerer 3, Wizard
 3, Sha'ir 3, Jester 3, Spellthief 3, Wrath (SpC) 3, Passion (DCS) 3,
 Liberation (CD) 3, Madness (CD) 3, Madness (ECS) 3, Fury (FC1) 3, Madness
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: Medium (100 ft. + 10 ft./level)  
@@ -15477,10 +14778,8 @@ aren't fatigued at the end of the rage.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-by an obscuring mist spell, for instance), creatures who can't see them ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 268
-Rainbow Pattern
 
+Rainbow Pattern
 
   
 Illusion (Pattern) [Mind-Affecting]  
@@ -15508,7 +14807,6 @@ the effect. Fascinated creatures who are restrained and removed from the
 pattern still try to follow it. If the pattern leads its subjects into a
 dangerous area (through flame, off a cliff, or the like), each fascinated
 creature gets a second save. If the view of the lights is completely blocked
-
 no longer affected.
 
 The spell does not affect sightless creatures.
@@ -15524,10 +14822,8 @@ Focus: A crystal prism.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-such as a sorcerer) has a 50% chance of losing any given unused spell slot###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 268
-Raise Dead
 
+Raise Dead
 
   
 Conjuration (Healing) [Ectomancy]  
@@ -15556,7 +14852,6 @@ it can't be raised). This level/HD loss or Constitution loss cannot be
 repaired by any means. A character who died with spells prepared has a 50%
 chance of losing any given spell upon being raised, in addition to losing
 spells for losing a level. A spellcasting creature that doesn't prepare spells
-
 if it had been used to cast a spell, in addition to losing spell slots for
 losing a level.
 
@@ -15579,10 +14874,8 @@ Material Component: Diamonds worth a total of least 5,000 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-if not cas###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 268
-Rary's Mnemonic Enhancer
 
+Rary's Mnemonic Enhancer
 
   
 Transmutation  
@@ -15608,7 +14901,6 @@ previously cast spell to your mind.
 
 In either event, the spell or spells prepared or retained fade after 24 hours
 
-
 Material Component: A piece of string, and ink consisting of squid secretion
 with black dragon's blood.
 
@@ -15617,9 +14909,8 @@ Focus: An ivory plaque of at least 50 gp value.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 268
-Rary's Telepathic Bond
 
+Rary's Telepathic Bond
 
   
 Divination  
@@ -15655,16 +14946,13 @@ Material Component: Pieces of eggshell from two different kinds of creatures.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-ECS) 2###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 269
-Ray of Enfeeblement
 
+Ray of Enfeeblement
 
   
 Necromancy  
 Level: Sorcerer 1, Wizard 1, Dread Necromancer 1, Duskblade 1, Blighter 1,
 Thayan Slaver 1, Sha'ir 1, Death Master 1, Necromancer (ECS) 1, Envy 2, Decay
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: Close (25 ft. + 5 ft./2 levels)  
@@ -15682,9 +14970,8 @@ cannot drop below 1.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 269
-Ray of Exhaustion
 
+Ray of Exhaustion
 
   
 Necromancy  
@@ -15714,9 +15001,8 @@ Material Component: A drop of sweat.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 269
-Ray of Frost
 
+Ray of Frost
 
   
 Evocation [Cold]  
@@ -15738,9 +15024,8 @@ ray deals 1d3 points of cold damage.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 269
-Read Magic
 
+Read Magic
 
   
 Divination  
@@ -15776,9 +15061,8 @@ Focus: A clear crystal or mineral prism.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 269
-Reduce Animal
 
+Reduce Animal
 
   
 Transmutation  
@@ -15802,9 +15086,8 @@ Guide.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 269
-Reduce Person
 
+Reduce Person
 
   
 Transmutation  
@@ -15852,9 +15135,8 @@ Material Component: A pinch of powdered iron.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 269
-Reduce Person, Mass
 
+Reduce Person, Mass
 
   
 Transmutation  
@@ -15875,18 +15157,13 @@ creatures.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DCS) 7, Family 7, Community (ECS) 7###BEGIN_SPELL###
-BoED) 7, Commerce 7, Liberation (DD) 7, Community (DD) 7, Community (DF)###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 269
-Refuge
 
+Refuge
 
   
 Conjuration (Teleportation)  
 Level: Cleric 7, Apostle of Peace 7, Sorcerer 9, Wizard 9, Sha'ir 9, Community
-
 Liberation (CD) 7, Community (DCS) 7, Community (CD) 7, Lust 7, Liberation
-
 Components: V, S, M,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -15920,16 +15197,13 @@ gems worth 1,500 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DCS) 7, Competition (CD) 7, Life (ECS) 7###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 270
-Regenerate
 
+Regenerate
 
   
 Conjuration (Healing)  
 Level: Healer 6, Cleric 7, Apostle of Peace 7, Shugenja 8 (Water), Druid 9,
 Urban Druid 9, Healing 7, Celestia (SpC) 7, Competition (SpC) 7, Alteration
-
 Components: V, S, DF,  
 Casting Time: 3 full rounds  
 Range: Touch  
@@ -15953,9 +15227,8 @@ creatures (including undead).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 270
-Reincarnate
 
+Reincarnate
 
   
 Transmutation [Ectomancy]  
@@ -16040,9 +15313,8 @@ spread over the remains.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 270
-Remove Blindness/deafness
 
+Remove Blindness/deafness
 
   
 Conjuration (Healing)  
@@ -16066,10 +15338,8 @@ Remove blindness/deafness counters and dispels blindness/deafness.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Arcane), Sha'ir 4, Fatemaker 4, Liberation (DCS) 3, Exorcism (DF)###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 270
-Remove Curse
 
+Remove Curse
 
   
 Abjuration  
@@ -16077,7 +15347,6 @@ Level: Bard 3, Emissary of Barachiel 3, Champion of Gwynharwyf 3, Apostle of
 Peace 3, Shugenja 3 (Water), Death Master 3, Wu Jen 3, Vigilante 3, Urban
 Adept 3, Knight of the Weave 3, Adept 3, Healer 3, Cleric 3, Paladin 3,
 Sorcerer 4, Wizard 4, Spellthief 4, Magewright 4, Court Herald 4, Savant 4
-
 Liberation (DD) 3, Exorcism (ECS) 3,  
 Components: V, S,  
 Casting Time: 1 standard action  
@@ -16100,9 +15369,8 @@ Remove curse counters and dispels bestow curse.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 271
-Remove Disease
 
+Remove Disease
 
   
 Conjuration (Healing)  
@@ -16131,17 +15399,14 @@ reinfection after a new exposure to the same disease at a later date.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-CW) 1, Pleasure (BoED) 1, Liberation (DCS) 1, Restoration (DCS)###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 271
-Remove Fear
 
+Remove Fear
 
   
 Abjuration  
 Level: Bard 1, Apostle of Peace 1, Shugenja 1 (Water), Celebrant of Sharess 1,
 Death Delver 1, Vigilante 1, Knight of the Chalice 1, Hunter of the Dead 1,
 Healer 1, Cleric 1, Champion of Gwynharwyf 1, Competition (SpC) 1, Courage
-
 Competition (CD) 1, Courage (SpC) 1, Liberation (DD) 1,  
 Components: V, S,  
 Casting Time: 1 standard action  
@@ -16163,9 +15428,8 @@ Remove fear counters and dispels cause fear.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 271
-Remove Paralysis
 
+Remove Paralysis
 
   
 Conjuration (Healing)  
@@ -16194,9 +15458,8 @@ drain.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 271
-Repel Metal Or Stone
 
+Repel Metal Or Stone
 
   
 Abjuration [Earth]  
@@ -16233,9 +15496,8 @@ power.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 271
-Repel Vermin
 
+Repel Vermin
 
   
 Abjuration  
@@ -16261,9 +15523,8 @@ vermin.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 271
-Repel Wood
 
+Repel Wood
 
   
 Transmutation  
@@ -16300,9 +15561,8 @@ things or go elsewhere without affecting the spell's power.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 271
-Repulsion
 
+Repulsion
 
   
 Abjuration  
@@ -16336,9 +15596,8 @@ statuettes, one black and one white, the whole array worth 50 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 272
-Resistance
 
+Resistance
 
   
 Abjuration  
@@ -16365,9 +15624,8 @@ Arcane Material Component: A miniature cloak.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 272
-Resist Energy
 
+Resist Energy
 
   
 Abjuration  
@@ -16407,10 +15665,8 @@ protection spell absorbs damage until its power is exhausted.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DCS) 4###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 272
-Restoration
 
+Restoration
 
   
 Conjuration (Healing)  
@@ -16418,7 +15674,6 @@ Level: Healer 3, Cleric 4, Beloved of Valarian 4, Champion of Gwynharwyf 4,
 Apostle of Peace 4, Shugenja 4 (Water), Soldier of Light 4, Death Delver 4,
 Fatemaker 4, Knight of the Weave 4, Hunter of the Dead 4, Runescarred
 Berserker 4, Adept 4, Paladin 4, Urban Adept 4, Divine Bard 5, Restoration
-
 Components: V, S, M,  
 Casting Time: 3 rounds  
 Range: Touch  
@@ -16450,9 +15705,8 @@ target.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 272
-Restoration, Greater
 
+Restoration, Greater
 
   
 Conjuration (Healing)  
@@ -16486,9 +15740,8 @@ XP Cost: 500 XP.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 272
-Restoration, Lesser
 
+Restoration, Lesser
 
   
 Conjuration (Healing)  
@@ -16515,15 +15768,12 @@ restore permanent ability drain.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DCS) 8###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 272
-Resurrection
 
+Resurrection
 
   
 Conjuration (Healing) [Ectomancy]  
 Level: Cleric 7, Healer 7, Shugenja 7 (Water), Apostle of Peace 7, Restoration
-
 Components: V, S, M, DF,  
 Casting Time: 10 minutes  
 Range: Touch  
@@ -16559,9 +15809,8 @@ least 10,000 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 273
-Reverse Gravity
 
+Reverse Gravity
 
   
 Transmutation  
@@ -16593,17 +15842,12 @@ Arcane Material Component: A lodestone and iron filings.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-BoED) 5, Wrath (SpC) 5, Competition (CD) 5, Mysticism (CD) 5, Mysticism (###BEGIN_SPELL###
-Water), Strength 5, Celestia (SpC) 5, Competition (SpC) 5, Hatred 5, Wr###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 273
-Righteous Might
 
+Righteous Might
 
   
 Transmutation  
 Level: Runescarred Berserker 4, Cleric 5, Nentyar Hunter 5, Shugenja 5
-
-
 5,  
 Components: V, S, DF,  
 Casting Time: 1 standard action  
@@ -16646,9 +15890,8 @@ increase your size while you are still under the effect of the first casting.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 273
-Rope Trick
 
+Rope Trick
 
   
 Transmutation  
@@ -16693,9 +15936,8 @@ Material Component: Powdered corn extract and a twisted loop of parchment.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 273
-Rusting Grasp
 
+Rusting Grasp
 
   
 Transmutation  
@@ -16738,15 +15980,12 @@ round.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Divine), Shugenja 1 (Earth), Apostle of Peace 1, Emissary of Barachiel###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 274
-Sanctuary
 
+Sanctuary
 
   
 Abjuration  
 Level: Cleric 1, Healer 1, Fatemaker 1, Death Master 1, Jester 1, Savant 1
-
 Protection 1,  
 Components: V, S, DF,  
 Casting Time: 1 standard action  
@@ -16772,9 +16011,8 @@ bless spell, perform an augury, summon creatures, and so on.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 274
-Scare
 
+Scare
 
   
 Necromancy [Fear, Mind-Affecting]  
@@ -16800,9 +16038,8 @@ ghast, or mummy.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 274
-Scintillating Pattern
 
+Scintillating Pattern
 
   
 Illusion (Pattern) [Mind-Affecting]  
@@ -16839,9 +16076,8 @@ Material Component: A small crystal prism.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 274
-Scorching Ray
 
+Scorching Ray
 
   
 Evocation [Fire]  
@@ -16866,9 +16102,8 @@ simultaneously.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 274
-Screen
 
+Screen
 
   
 Illusion (Glamer)  
@@ -16910,9 +16145,8 @@ affected by the illusion.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 274
-Scrying
 
+Scrying
 
   
 Divination (Scrying)  
@@ -16979,17 +16213,14 @@ Druid Focus: A natural pool of water.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-OA) 7###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 275
-Scrying, Greater
 
+Scrying, Greater
 
   
 Divination (Scrying)  
 Level: Bard 6, Shugenja 7 (Water), Urban Druid 7, Death Master 7, Sha'ir 7, Wu
 Jen 7 (All), Wizard 7, Sorcerer 7, Druid 7, Cleric 7, Apostle of Peace 7,
 Oracle (CD) 7, Dream (CD) 7, Planning (CW) 7, Divination (DF) 7, Meditation
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: See text  
@@ -17007,9 +16238,8 @@ tongues.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 275
-Sculpt Sound
 
+Sculpt Sound
 
   
 Transmutation  
@@ -17042,17 +16272,14 @@ aforementioned snorting pig) is unable to cast spells with verbal components.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DF) 3, Glory (DD) 3, Glory (Dr) 3###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 275
-Searing Light
 
+Searing Light
 
   
 Evocation  
 Level: Cleric 3, Hunter of the Dead 3, Vassal of Bahamut 3, Knight of the
 Chalice 3, Justiciar of Taiia 3, Soldier of Light 3, Shugenja 3 (Fire), Sun 3,
 Glory (BoED) 3, Initiate of Horus-Re (Feat) 3 (paladin or ranger only), Glory
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: Medium (100 ft. + 10 ft./level)  
@@ -17074,15 +16301,12 @@ points of damage per two caster levels (maximum 5d6).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Arcane), Sha'ir 3, Vigilante 3, Ebonmar Infiltrator 3, Wizard 3, Sorcerer###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 275
-Secret Page
 
+Secret Page
 
   
 Transmutation  
 Level: Bard 3, Merchant Prince 3, Magewright 3, Court Herald 3, Savant 3
-
 Spellthief 3, Rune (DD) 2,  
 Components: V, S, M,  
 Casting Time: 10 minutes  
@@ -17114,9 +16338,8 @@ Material Component: Powdered herring scales and will-o'-wisp essence.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 275
-See Invisibility
 
+See Invisibility
 
   
 Divination  
@@ -17149,9 +16372,8 @@ Material Component: A pinch of talc and a small sprinkling of powdered silver.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 275
-Seeming
 
+Seeming
 
   
 Illusion (Glamer)  
@@ -17176,9 +16398,8 @@ or with spell resistance.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 275
-Sending
 
+Sending
 
   
 Evocation  
@@ -17211,10 +16432,8 @@ Arcane Material Component: A short piece of fine copper wire.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-and perhaps even killed), since the field provides no protection agai###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 276
-Sepia Snake Sigil
 
+Sepia Snake Sigil
 
   
 Conjuration (Creation) [Force]  
@@ -17246,7 +16465,6 @@ per caster level have elapsed.
 While trapped in the amber field of force, the subject does not age, breathe,
 grow hungry, sleep, or regain spells. It is preserved in a state of suspended
 animation, unaware of its surroundings. It can be damaged by outside forces
-
 physical injury. However, a dying subject does not lose hit points or become
 stable until the spell ends.
 
@@ -17262,15 +16480,12 @@ and a pinch of mushroom spores.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Dr) 7, Initiate of Astilabor (Feat) 7###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 276
-Sequester
 
+Sequester
 
   
 Abjuration  
 Level: Thayan Slaver 4, Sorcerer 7, Wizard 7, Sha'ir 7, Urban Druid 7, Wealth
-
 Components: V, S, M,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -17299,9 +16514,8 @@ Material Component: A basilisk eyelash, gum arabic, and a dram of whitewash.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 276
-Shades
 
+Shades
 
   
 Illusion (Shadow)  
@@ -17317,9 +16531,8 @@ are 80% likely to work against nonbelievers.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 276
-Shadow Conjuration
 
+Shadow Conjuration
 
   
 Illusion (Shadow)  
@@ -17377,9 +16590,8 @@ Objects automatically succeed on their Will saves against this spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 276
-Shadow Conjuration, Greater
 
+Shadow Conjuration, Greater
 
   
 Illusion (Shadow)  
@@ -17396,9 +16608,8 @@ nonbelievers.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 277
-Shadow Evocation
 
+Shadow Evocation
 
   
 Illusion (Shadow)  
@@ -17435,9 +16646,8 @@ Objects automatically succeed on their Will saves against this spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 277
-Shadow Evocation, Greater
 
+Shadow Evocation, Greater
 
   
 Illusion (Shadow)  
@@ -17453,16 +16663,13 @@ damaging spell deals only three-fifths (60%) damage.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-SpC) 7, Sloth 7, Darkness (BoVD) 7###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 277
-Shadow Walk
 
+Shadow Walk
 
   
 Illusion (Shadow)  
 Level: Bard 5, Sorcerer 6, Wizard 6, Beguiler 6, Sha'ir 6, Death Master 6,
 Initiate of Aasterinian (Feat) 6, Far Horizons 6, Shadow (ECS) 6, Halfling
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -17512,9 +16719,8 @@ throw, negating the effect if successful.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 277
-Shambler
 
+Shambler
 
   
 Conjuration (Creation)  
@@ -17545,9 +16751,8 @@ the terrain is rainy, marshy, or damp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 277
-Shapechange
 
+Shapechange
 
   
 Transmutation (Polymorph)  
@@ -17584,9 +16789,8 @@ head when casting the spell. The focus melds into your assumed form.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 278
-Shatter
 
+Shatter
 
   
 Evocation [Sonic]  
@@ -17624,9 +16828,8 @@ Arcane Material Component: A chip of mica.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 278
-Shield
 
+Shield
 
   
 Abjuration [Force]  
@@ -17649,9 +16852,8 @@ shield, you can't use the shield spell for cover.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 278
-Shield of Faith
 
+Shield of Faith
 
   
 Abjuration  
@@ -17677,9 +16879,8 @@ Material Component: A small parchment with a bit of holy text written upon it.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 278
-Shield of Law
 
+Shield of Law
 
   
 Abjuration [Lawful]  
@@ -17719,10 +16920,8 @@ parchment from a lawful text. The reliquary costs at least 500 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-including that dealt by special abilities) that deal hit point damage. ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 278
-Shield Other
 
+Shield Other
 
   
 Abjuration  
@@ -17743,7 +16942,6 @@ This spell wards the subject and creates a mystic connection between you and
 the subject so that some of its wounds are transferred to you. The subject
 gains a +1 deflection bonus to AC and a +1 resistance bonus on saves.
 Additionally, the subject takes only half damage from all wounds and attacks
-
 amount of damage not taken by the warded creature is taken by you. Forms of
 harm that do not involve hit points, such as charm effects, temporary ability
 damage, level draining, and death effects, are not affected. If the subject
@@ -17761,9 +16959,8 @@ and the warded creature.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 278
-Shillelagh
 
+Shillelagh
 
   
 Transmutation  
@@ -17788,9 +16985,8 @@ not wield it, the weapon behaves as if unaffected by this spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 279
-Shocking Grasp
 
+Shocking Grasp
 
   
 Evocation [Electricity]  
@@ -17813,9 +17009,8 @@ carrying a lot of metal, or the like).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 279
-Shout
 
+Shout
 
   
 Evocation [Sonic]  
@@ -17845,15 +17040,12 @@ A shout spell cannot penetrate a silence spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-FC1) 8###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 279
-Shout, Greater
 
+Shout, Greater
 
   
 Evocation [Sonic]  
 Level: Bard 6, Sorcerer 8, Wizard 8, Warmage 8, Sha'ir 8, Wrath (SpC) 8, Fury
-
 Components: V, S, AF,  
 Range: 60 ft.  
 Saving Throw: Fortitude partial or Reflex negates (object); see text  
@@ -17873,9 +17065,8 @@ Arcane Focus: A small metal or ivory horn.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 279
-Shrink Item
 
+Shrink Item
 
   
 Transmutation  
@@ -17908,9 +17099,8 @@ only by the original caster.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 279
-Silence
 
+Silence
 
   
 Illusion (Glamer)  
@@ -17942,9 +17132,8 @@ captivating song, a horn of blasting, and the like.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 279
-Silent Image
 
+Silent Image
 
   
 Illusion (Figment)  
@@ -17971,9 +17160,8 @@ Focus: A bit of fleece.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 279
-Simulacrum
 
+Simulacrum
 
   
 Illusion (Shadow)  
@@ -18016,9 +17204,8 @@ XP Cost: 100 XP per HD of the simulacrum to be created (minimum 1,000 XP).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 280
-Slay Living
 
+Slay Living
 
   
 Necromancy [Death, Ectomancy]  
@@ -18042,10 +17229,8 @@ its save).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-an application of the aid another actio###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 280
-Sleep
 
+Sleep
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -18075,7 +17260,6 @@ the ogre or the two gnolls.
 Sleeping creatures are helpless. Slapping or wounding awakens an affected
 creature, but normal noise does not. Awakening a creature is a standard action
 
-
 Sleep does not target unconscious creatures, constructs, or undead creatures.
 
 Material Component: A pinch of fine sand, rose petals, or a live cricket.
@@ -18083,16 +17267,13 @@ Material Component: A pinch of fine sand, rose petals, or a live cricket.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DD) 4, Storm (DCS) 4, Weather (ECS) 4###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 280
-Sleet Storm
 
+Sleet Storm
 
   
 Conjuration (Creation) [Cold]  
 Level: Druid 3, Sorcerer 3, Wizard 3, Disciple of Thrym 3, Warmage 3, Sha'ir
 3, Savant 3 (Arcane), Gnome Artificer 3, Cold (CD) 3, Storm (SpC) 4, Weather
-
 Components: V, S, M, DF,  
 Casting Time: 1 standard action  
 Range: Long (400 ft. + 40 ft./level)  
@@ -18115,9 +17296,8 @@ Arcane Material Component: A pinch of dust and a few drops of water.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 280
-Slow
 
+Slow
 
   
 Transmutation  
@@ -18147,9 +17327,8 @@ Material Component: A drop of molasses.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 280
-Snare
 
+Snare
 
   
 Transmutation  
@@ -18188,9 +17367,8 @@ and ends the spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 280
-Soften Earth and Stone
 
+Soften Earth and Stone
 
   
 Transmutation [Earth]  
@@ -18236,9 +17414,8 @@ by this spell, not destroyed.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 281
-Solid Fog
 
+Solid Fog
 
   
 Conjuration (Creation)  
@@ -18270,9 +17447,8 @@ animal hoof.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 281
-Song of Discord
 
+Song of Discord
 
   
 Enchantment (Compulsion) [Mind-Affecting, Sonic]  
@@ -18301,9 +17477,8 @@ fallen unconscious.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 281
-Soul Bind
 
+Soul Bind
 
   
 Necromancy [Ectomancy]  
@@ -18334,9 +17509,8 @@ gain more Hit Dice).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 281
-Sound Burst
 
+Sound Burst
 
   
 Evocation [Sonic]  
@@ -18361,9 +17535,8 @@ Arcane Focus: A musical instrument.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 281
-Speak With Animals
 
+Speak With Animals
 
   
 Divination  
@@ -18387,9 +17560,8 @@ service for you (as determined by the DM).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 281
-Speak With Dead
 
+Speak With Dead
 
   
 Necromancy [Language-Dependent]  
@@ -18433,9 +17605,8 @@ creature.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 282
-Speak With Plants
 
+Speak With Plants
 
   
 Divination  
@@ -18463,9 +17634,8 @@ determined by the DM).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 282
-Spectral Hand
 
+Spectral Hand
 
   
 Necromancy  
@@ -18501,9 +17671,8 @@ lost in creating it.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 282
-Spell Immunity
 
+Spell Immunity
 
   
 Abjuration  
@@ -18537,9 +17706,8 @@ effect on it at a time.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 282
-Spell Immunity, Greater
 
+Spell Immunity, Greater
 
   
 Abjuration  
@@ -18562,9 +17730,8 @@ effect on it at a time.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 282
-Spell Resistance
 
+Spell Resistance
 
   
 Abjuration  
@@ -18585,9 +17752,8 @@ The creature gains spell resistance equal to 12 + your caster level.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 282
-Spellstaff
 
+Spellstaff
 
   
 Transmutation  
@@ -18614,9 +17780,8 @@ Focus: The staff that stores the spell.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 282
-Spell Turning
 
+Spell Turning
 
   
 Abjuration  
@@ -18674,9 +17839,8 @@ Arcane Material Component: A small silver mirror.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 283
-Spider Climb
 
+Spider Climb
 
   
 Transmutation  
@@ -18708,9 +17872,8 @@ eaten by the subject.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 283
-Spike Growth
 
+Spike Growth
 
   
 Transmutation  
@@ -18747,9 +17910,8 @@ use the Search skill to find a spike growth. The DC is 25 + spell level, or DC
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 283
-Spike Stones
 
+Spike Stones
 
   
 Transmutation [Earth]  
@@ -18788,11 +17950,8 @@ use the Search skill to find spike stones. The DC is 25 + spell level, or DC
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-1d20 + caster level) against that spell resistance the first time ###BEGIN_SPELL###
-possibly allowing it multiple attacks per round in subsequent rounds) p###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 283
-Spiritual Weapon
 
+Spiritual Weapon
 
   
 Evocation [Force]  
@@ -18815,7 +17974,6 @@ symbolism to you (see below) and has the same threat range and critical
 multipliers as a real weapon of its form. It strikes the opponent you
 designate, starting with one attack in the round the spell is cast and
 continuing each round thereafter on your turn. It uses your base attack bonus
-
 your Wisdom modifier as its attack bonus. It strikes as a spell, not as a
 weapon, so, for example, it can damage creatures that have damage reduction.
 As a force effect, it can strike incorporeal creatures without the normal miss
@@ -18840,7 +17998,6 @@ affects it. A spiritual weapon's AC against touch attacks is 12 (10 + size
 bonus for Tiny object).
 
 If an attacked creature has spell resistance, you make a caster level check
-
 spiritual weapon strikes it. If the weapon is successfully resisted, the spell
 is dispelled. If not, the weapon has its normal full effect on that creature
 for the duration of the spell.
@@ -18879,9 +18036,8 @@ Law: Longsword, "The Sword of Truth"
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 284
-Statue
 
+Statue
 
   
 Transmutation  
@@ -18915,15 +18071,12 @@ such as a nail or spike.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-CD) 2, Community (ECS) 2, Fate (CW) 4, Planning (CW) 4, Community (DCS)###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 284
-Status
 
+Status
 
   
 Divination  
 Level: Cleric 2, Apostle of Peace 2, Healer 3, Community (BoED) 2, Community
-
 Community (DF) 4, Community (DD) 4,  
 Components: V, S,  
 Casting Time: 1 standard action  
@@ -18947,9 +18100,8 @@ function for it.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 284
-Stinking Cloud
 
+Stinking Cloud
 
   
 Conjuration (Creation)  
@@ -18980,9 +18132,8 @@ Material Component: A rotten egg or several skunk cabbage leaves.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 284
-Stone Shape
 
+Stone Shape
 
   
 Transmutation [Earth]  
@@ -19013,17 +18164,14 @@ verbal component is uttered.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Earth), Endurance (BoED) 5, Earth 6, Strength 6, Dragon (SpC) 6, Dragon (###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 284
-Stoneskin
 
+Stoneskin
 
   
 Abjuration  
 Level: Trapsmith 2, Urban Adept 4, Spellthief 4, Bladesinger 4, Death Master
 4, Sha'ir 4, Wu Jen 4 (Earth), Runescarred Berserker 4, Fatemaker 4, Adept 4,
 Wizard 4, Sorcerer 4, Disciple of Thrym 5, Urban Druid 5, Druid 5, Shugenja 6
-
 6,  
 Components: V, S, M,  
 Casting Time: 1 standard action  
@@ -19046,9 +18194,8 @@ target's skin.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 284
-Stone Tell
 
+Stone Tell
 
   
 Divination  
@@ -19070,9 +18217,8 @@ worked stone.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 285
-Stone to Flesh
 
+Stone to Flesh
 
   
 Transmutation  
@@ -19104,15 +18250,12 @@ Material Component: A pinch of earth and a drop of blood.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-SpC) 9, Nobility (CW) 9, Retribution 9, Wrath (BoED) 9, Wrath (SpC)###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 285
-Storm of Vengeance
 
+Storm of Vengeance
 
   
 Conjuration (Summoning)  
 Level: Druid 9, Cleric 9, Blighter 9, Urban Druid 9, Shugenja 9 (Water), Storm
-
 Nobility (DD) 9, Weather (DD) 9, Storm (DCS) 9, Weather (ECS) 9,  
 Components: V, S,  
 Casting Time: 1 round  
@@ -19155,9 +18298,8 @@ caster is trying to cast.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 285
-Suggestion
 
+Suggestion
 
   
 Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]  
@@ -19203,17 +18345,14 @@ of sweet oil.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-SpC) 8, Dragon (Dr) 8###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 285
-Suggestion, Mass
 
+Suggestion, Mass
 
   
 Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]  
 Level: Celebrant of Sharess 4, Bard 5, Sorcerer 6, Wizard 6, Beguiler 6, Wu
 Jen 6, Sha'ir 6, Urban Druid 6, Court Herald 6, Temptation (FC1) 6, Law
 Inviolate 6, Domination (CD) 7, Domination (DF) 7, Domination (Dr) 7, Dragon
-
 Components: V, M,  
 Casting Time: 1 standard action  
 Range: Medium (100 ft. + 10 ft./level)  
@@ -19229,9 +18368,8 @@ creatures. The same suggestion applies to all these creatures.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 285
-Summon Instrument
 
+Summon Instrument
 
   
 Conjuration (Summoning)  
@@ -19254,9 +18392,8 @@ hands (such as a harp, piano, harpsichord, alphorn, or pipe organ).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 285
-Summon Monster I
 
+Summon Monster I
 
   
 Conjuration (Summoning) [see text]  
@@ -19297,9 +18434,8 @@ Arcane Focus: A tiny bag and a small (not necessarily lit) candle.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 286
-Summon Monster II
 
+Summon Monster II
 
   
 Conjuration (Summoning) [see text for summon monster I]  
@@ -19325,9 +18461,8 @@ Arcane Focus: A tiny bag and a small (not necessarily lit) candle.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 286
-Summon Monster III
 
+Summon Monster III
 
   
 Conjuration (Summoning) [see text for summon monster I]  
@@ -19354,9 +18489,8 @@ Arcane Focus: A tiny bag and a small (not necessarily lit) candle.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 286
-Summon Monster IV
 
+Summon Monster IV
 
   
 Conjuration (Summoning) [see text for summon monster I]  
@@ -19381,9 +18515,8 @@ Arcane Focus: A tiny bag and a small (not necessarily lit) candle.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 288
-Summon Monster IX
 
+Summon Monster IX
 
   
 Conjuration (Summoning) [see text for summon monster I]  
@@ -19409,9 +18542,8 @@ Arcane Focus: A tiny bag and a small (not necessarily lit) candle.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 286
-Summon Monster V
 
+Summon Monster V
 
   
 Conjuration (Summoning) [see text for summon monster I]  
@@ -19438,9 +18570,8 @@ Arcane Focus: A tiny bag and a small (not necessarily lit) candle.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 287
-Summon Monster VI
 
+Summon Monster VI
 
   
 Conjuration (Summoning) [see text for summon monster I]  
@@ -19465,16 +18596,13 @@ Arcane Focus: A tiny bag and a small (not necessarily lit) candle.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-CD) 7, Summoning (DF) 7###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 287
-Summon Monster VII
 
+Summon Monster VII
 
   
 Conjuration (Summoning) [see text for summon monster I]  
 Level: Cleric 7, Sorcerer 7, Wizard 7, Nar Demonbinder 7, Wu Jen 7, Sha'ir 7,
 Celestia (SpC) 7, Abyss (SpC) 7, Arborea (SpC) 7, Baator (SpC) 7, Summoner
-
 Components: V, S, AF, DF,  
 Casting Time: 1 round  
 Range: Close (25 ft. + 5 ft./2 levels)  
@@ -19494,9 +18622,8 @@ Arcane Focus: A tiny bag and a small (not necessarily lit) candle.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 287
-Summon Monster VIII
 
+Summon Monster VIII
 
   
 Conjuration (Summoning) [see text for summon monster I]  
@@ -19521,9 +18648,8 @@ Arcane Focus: A tiny bag and a small (not necessarily lit) candle.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 288
-Summon Nature's Ally I
 
+Summon Nature's Ally I
 
   
 Conjuration (Summoning)  
@@ -19556,9 +18682,8 @@ creatures on the table are neutral unless otherwise noted.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 288
-Summon Nature's Ally II
 
+Summon Nature's Ally II
 
   
 Conjuration (Summoning)  
@@ -19579,9 +18704,8 @@ one 2nd-level creature or 1d3 1st-level creatures of the same kind.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 288
-Summon Nature's Ally III
 
+Summon Nature's Ally III
 
   
 Conjuration (Summoning) [see text]  
@@ -19609,9 +18733,8 @@ a salamander.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 288
-Summon Nature's Ally IV
 
+Summon Nature's Ally IV
 
   
 Conjuration (Summoning) [see text]  
@@ -19636,9 +18759,8 @@ good, lawful, or water creature, it is a spell of that type.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 289
-Summon Nature's Ally IX
 
+Summon Nature's Ally IX
 
   
 Conjuration (Summoning) [see text]  
@@ -19663,9 +18785,8 @@ good, lawful, or water creature, it is a spell of that type.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 289
-Summon Nature's Ally V
 
+Summon Nature's Ally V
 
   
 Conjuration (Summoning) [see text]  
@@ -19689,9 +18810,8 @@ good, lawful, or water creature, it is a spell of that type.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 289
-Summon Nature's Ally VI
 
+Summon Nature's Ally VI
 
   
 Conjuration (Summoning) [see text]  
@@ -19715,9 +18835,8 @@ good, lawful, or water creature, it is a spell of that type.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 289
-Summon Nature's Ally VII
 
+Summon Nature's Ally VII
 
   
 Conjuration (Summoning) [see text]  
@@ -19741,9 +18860,8 @@ good, lawful, or water creature, it is a spell of that type.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 289
-Summon Nature's Ally VIII
 
+Summon Nature's Ally VIII
 
   
 Conjuration (Summoning) [see text]  
@@ -19767,16 +18885,13 @@ good, lawful, or water creature, it is a spell of that type.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-CD) 2###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 289
-Summon Swarm
 
+Summon Swarm
 
   
 Conjuration (Summoning)  
 Level: Bard 2, Druid 2, Sorcerer 2, Wizard 2, Sha'ir 2, Death Master 2, Urban
 Druid 2, Dread Necromancer 2, Hexblade 2 (Arcane), Spider (SpC) 2, Pestilence
-
 Components: V, S, M, DF,  
 Casting Time: 1 round  
 Range: Close (25 ft. + 5 ft./2 levels)  
@@ -19799,9 +18914,8 @@ Arcane Material Component: A square of red cloth.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 289
-Sunbeam
 
+Sunbeam
 
   
 Evocation [Light]  
@@ -19836,9 +18950,8 @@ oozes, and slimes just as if they were undead creatures.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 289
-Sunburst
 
+Sunburst
 
   
 Evocation [Light]  
@@ -19875,9 +18988,8 @@ Arcane Material Component: A piece of sunstone and a naked flame.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 289
-Symbol of Death
 
+Symbol of Death
 
   
 Necromancy [Death, Ectomancy]  
@@ -19977,9 +19089,8 @@ with a total value of at least 5,000 gp each.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 290
-Symbol of Fear
 
+Symbol of Fear
 
   
 Necromancy [Fear, Mind-Affecting]  
@@ -20009,9 +19120,8 @@ with a total value of at least 1,000 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 290
-Symbol of Insanity
 
+Symbol of Insanity
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -20044,9 +19154,8 @@ with a total value of at least 5,000 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 290
-Symbol of Pain
 
+Symbol of Pain
 
   
 Necromancy [Evil]  
@@ -20080,9 +19189,8 @@ with a total value of at least 1,000 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 290
-Symbol of Persuasion
 
+Symbol of Persuasion
 
   
 Enchantment (Charm) [Mind-Affecting]  
@@ -20116,9 +19224,8 @@ with a total value of at least 5,000 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 291
-Symbol of Sleep
 
+Symbol of Sleep
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -20153,9 +19260,8 @@ with a total value of at least 1,000 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 291
-Symbol of Stunning
 
+Symbol of Stunning
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -20183,9 +19289,8 @@ with a total value of at least 5,000 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 291
-Symbol of Weakness
 
+Symbol of Weakness
 
   
 Necromancy  
@@ -20218,10 +19323,8 @@ with a total value of at least 5,000 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Hardness has no effect on the spell's damage.) You can choose at the time###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 291
-Sympathetic Vibration
 
+Sympathetic Vibration
 
   
 Evocation [Sonic]  
@@ -20238,7 +19341,6 @@ Spell Resistance: Yes
 By attuning yourself to a freestanding structure such as a building, bridge,
 or dam, you can create a damaging vibration within it. Once it begins, the
 vibration deals 2d10 points of damage per round to the target structure.
-
 casting to limit the duration of the spell; otherwise it lasts for 1
 round/level. If the spell is cast upon a target that is not freestanding the
 surrounding stone dissipates the effect and no damage occurs.
@@ -20252,9 +19354,8 @@ Focus: A tuning fork.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 292
-Sympathy
 
+Sympathy
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -20292,9 +19393,8 @@ Material Component: 1,500 gp worth of crushed pearls and a drop of honey.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 292
-Tasha's Hideous Laughter
 
+Tasha's Hideous Laughter
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
@@ -20326,9 +19426,8 @@ that is waved in the air.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 292
-Telekinesis
 
+Telekinesis
 
   
 Transmutation  
@@ -20398,11 +19497,8 @@ fallen 10 feet (1d6 points).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-attended) by another person receive saving throws and spell resistan###BEGIN_SPELL###
-see below) per three caster levels. A Large creature counts as two Med###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 292
-Teleport
 
+Teleport
 
   
 Conjuration (Teleportation)  
@@ -20422,13 +19518,11 @@ as distant as 100 miles per caster level. Interplanar travel is not possible.
 You can bring along objects as long as their weight doesn't exceed your
 maximum load. You may also bring one additional willing Medium or smaller
 creature (carrying gear or objects up to its maximum load) or its equivalent
-
 creatures, a Huge creature counts as two Large creatures, and so forth. All
 creatures to be transported must be in contact with one another, and at least
 one of those creatures must be in contact with you. As with all spells where
 the range is personal and the target is you, you need not make a saving throw,
 nor is spell resistance applicable to you. Only objects held or in use
-
 
 You must have some clear idea of the location and layout of the destination.
 You can't simply teleport to the warlord's tent if you don't know where that
@@ -20483,9 +19577,8 @@ characters take more damage and must reroll.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 293
-Teleportation Circle
 
+Teleportation Circle
 
   
 Conjuration (Teleportation)  
@@ -20526,9 +19619,8 @@ gp).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 293
-Teleport, Greater
 
+Teleport, Greater
 
   
 Conjuration (Teleportation)  
@@ -20554,15 +19646,12 @@ travel is not possible.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-BoVD) 7, Greed (Dr) 7###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 293
-Teleport Object
 
+Teleport Object
 
   
 Conjuration (Teleportation)  
 Level: Sorcerer 7, Wizard 7, Wu Jen 7, Sha'ir 7, Shugenja 7 (Air), Greed
-
 Components: V,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -20585,9 +19674,8 @@ Ethereal Plane.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 293
-Temporal Stasis
 
+Temporal Stasis
 
   
 Transmutation  
@@ -20614,9 +19702,8 @@ dust with a total value of at least 5,000 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 294
-Tenser's Floating Disk
 
+Tenser's Floating Disk
 
   
 Evocation [Force]  
@@ -20649,9 +19736,8 @@ Material Component: A drop of mercury.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 294
-Tenser's Transformation
 
+Tenser's Transformation
 
   
 Transmutation  
@@ -20682,9 +19768,8 @@ effects are subsumed by the spell effects).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 294
-Time Stop
 
+Time Stop
 
   
 Transmutation  
@@ -20720,10 +19805,8 @@ by an antimagic field while under the effect of time stop.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-ECS) 4###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 294
-Tongues
 
+Tongues
 
   
 Divination  
@@ -20733,7 +19816,6 @@ Savant 3 (Arcane, Divine lvl 4), Court Herald 3, Magewright 3, Merchant Prince
 3, Wizard 3, Adept 3, Ebonmar Infiltrator 3, Fatemaker 3, Wu Jen 3, Urban
 Adept 3, Vassal of Bahamut 4, Death Master 4, Apostle of Peace 4, Cleric 4,
 Herald (BoED) 3, Commerce 3, Community (CD) 4, Meditation (DCS) 4, Meditation
-
 Components: V, M, DF,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -20759,9 +19841,8 @@ when the verbal component is pronounced.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 294
-Touch of Fatigue
 
+Touch of Fatigue
 
   
 Necromancy  
@@ -20789,15 +19870,12 @@ Material Component: A drop of sweat.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Arcane), Jester 2, Death Master 2, Sha'ir 2, Wizard 2, Spellthief 2, Envy 3###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 294
-Touch of Idiocy
 
+Touch of Idiocy
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
 Level: Sorcerer 2, Beguiler 2, Duskblade 2, Hexblade 2 (Arcane), Savant 2
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: Touch  
@@ -20818,9 +19896,8 @@ to cast spells of that level.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 294
-Transmute Metal to Wood
 
+Transmute Metal to Wood
 
   
 Transmutation  
@@ -20851,10 +19928,8 @@ wood is forevermore a wooden door.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-sandstone or a similar mineral) permanently. Any creature in the mud###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 295
-Transmute Mud to Rock
 
+Transmute Mud to Rock
 
   
 Transmutation [Earth]  
@@ -20869,7 +19944,6 @@ Spell Resistance: No
   
 
 This spell transforms normal mud or quicksand of any depth into soft stone
-
 allowed a Reflex save to escape before the area is hardened to stone.
 
 Transmute mud to rock counters and dispels transmute rock to mud.
@@ -20879,9 +19953,8 @@ Arcane Material Component: Sand, lime, and water.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 295
-Transmute Rock to Mud
 
+Transmute Rock to Mud
 
   
 Transmutation [Earth]  
@@ -20930,9 +20003,8 @@ Arcane Material Component: Clay and water.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 295
-Transport Via Plants
 
+Transport Via Plants
 
   
 Conjuration (Teleportation)  
@@ -20975,9 +20047,8 @@ brought along, and ejects the bodies and all carried objects from the tree.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 295
-Trap the Soul
 
+Trap the Soul
 
   
 Conjuration (Summoning) [Ectomancy]  
@@ -21037,9 +20108,8 @@ trigger object, prepared as described above, is needed.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 296
-Tree Shape
 
+Tree Shape
 
   
 Transmutation  
@@ -21067,9 +20137,8 @@ You can dismiss tree shape as a free action (instead of as a standard action).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 296
-Tree Stride
 
+Tree Stride
 
   
 Conjuration (Teleportation)  
@@ -21114,15 +20183,12 @@ the process is complete.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-DCS) 9###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 296
-True Resurrection
 
+True Resurrection
 
   
 Conjuration (Healing) [Ectomancy]  
 Level: Cleric 9, Healer 9, Shugenja 9 (Water), Apostle of Peace 9, Restoration
-
 Components: V, S, M, DF,  
 Casting Time: 10 minutes  
 Range: Touch  
@@ -21156,9 +20222,8 @@ least 25,000 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 296
-True Seeing
 
+True Seeing
 
   
 Divination  
@@ -21200,17 +20265,14 @@ from mushroom powder, saffron, and fat.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-CW) 1, Time 1, Arcane Insight 1, Insight (DCS) 1, Fury (FC1) 1###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 296
-True Strike
 
+True Strike
 
   
 Divination  
 Level: Sorcerer 1, Bladesinger 1, Assassin 1, Savant 1 (Arcane), Sha'ir 1, Wu
 Jen 1, Thayan Slaver 1, Nentyar Hunter 1, Duskblade 1, Fatemaker 1,
 Runescarred Berserker 1, Warmage 1, Wizard 1, Spellthief 1, Elf (SpC) 1, Fate
-
 Components: V, AF,  
 Casting Time: 1 standard action  
 Range: Personal  
@@ -21228,9 +20290,8 @@ Focus: A small wooden replica of an archery target.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 297
-Undeath to Death
 
+Undeath to Death
 
   
 Necromancy  
@@ -21253,9 +20314,8 @@ Material Component: The powder of a crushed diamond worth at least 500 gp.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 297
-Undetectable Alignment
 
+Undetectable Alignment
 
   
 Abjuration  
@@ -21278,9 +20338,8 @@ creature from all forms of divination.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 297
-Unhallow
 
+Unhallow
 
   
 Evocation [Evil]  
@@ -21335,10 +20394,8 @@ Material Component: Herbs, oils, and incense worth at least 1,000 gp, plus
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Fortitude negate###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 297
-Unholy Aura
 
+Unholy Aura
 
   
 Abjuration [Evil]  
@@ -21371,17 +20428,14 @@ protection from good does.
 Finally, if a good creature succeeds on a melee attack against a warded
 creature, the offending attacker takes 1d6 points of temporary Strength damage
 
-
 Focus: A tiny reliquary containing some sacred relic, such as a piece of
 parchment from an unholy text. The reliquary costs at least 500 gp.
 
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-down to one-quarter) with a successful Will sa###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 297
-Unholy Blight
 
+Unholy Blight
 
   
 Evocation [Evil]  
@@ -21408,13 +20462,11 @@ remove disease or heal, but remove curse is effective.
 The spell deals only half damage to creatures who are neither evil nor good,
 and they are not sickened. Such a creature can reduce the damage in half again
 
-
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 297
-Unseen Servant
 
+Unseen Servant
 
   
 Conjuration (Creation)  
@@ -21454,9 +20506,8 @@ Material Component: A piece of string and a bit of wood.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 298
-Vampiric Touch
 
+Vampiric Touch
 
   
 Necromancy  
@@ -21481,9 +20532,8 @@ points disappear 1 hour later.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 298
-Veil
 
+Veil
 
   
 Illusion (Glamer)  
@@ -21515,9 +20565,8 @@ help.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 298
-Ventriloquism
 
+Ventriloquism
 
   
 Illusion (Figment)  
@@ -21543,9 +20592,8 @@ Focus: A parchment rolled up into a small cone.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 298
-Virtue
 
+Virtue
 
   
 Transmutation  
@@ -21566,9 +20614,8 @@ The subject gains 1 temporary hit point.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 298
-Vision
 
+Vision
 
   
 Divination  
@@ -21591,9 +20638,8 @@ XP Cost: 100 XP.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 298
-Wail of the Banshee
 
+Wail of the Banshee
 
   
 Necromancy [Death, Ectomancy, Sonic]  
@@ -21614,9 +20660,8 @@ yourself). Creatures closest to the point of origin are affected first.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 298
-Wall of Fire
 
+Wall of Fire
 
   
 Evocation [Fire]  
@@ -21658,15 +20703,12 @@ Arcane Material Component: A small piece of phosphorus.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-BoVD) 6###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 298
-Wall of Force
 
+Wall of Force
 
   
 Evocation [Force]  
 Level: Sorcerer 5, Wizard 5, Sha'ir 5, Artificer 5, Force (CD) 5, Darkness
-
 Components: V, S, M,  
 Casting Time: 1 standard action  
 Range: Close (25 ft. + 5 ft./2 levels)  
@@ -21698,9 +20740,8 @@ Material Component: A pinch of powder made from a clear gem.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 299
-Wall of Ice
 
+Wall of Ice
 
   
 Evocation [Cold]  
@@ -21758,9 +20799,8 @@ Material Component: A small piece of quartz or similar rock crystal.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 299
-Wall of Iron
 
+Wall of Iron
 
   
 Conjuration (Creation)  
@@ -21807,9 +20847,8 @@ pound of gold dust).
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 299
-Wall of Stone
 
+Wall of Stone
 
   
 Conjuration (Creation) [Earth]  
@@ -21859,9 +20898,8 @@ Arcane Material Component: A small block of granite.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 300
-Wall of Thorns
 
+Wall of Thorns
 
   
 Conjuration (Creation)  
@@ -21914,9 +20952,8 @@ thus is unaffected by spells that affect plants.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 300
-Warp Wood
 
+Warp Wood
 
   
 Transmutation  
@@ -21957,9 +20994,8 @@ Until the object is completely warped, it suffers no ill effects.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 300
-Water Breathing
 
+Water Breathing
 
   
 Transmutation  
@@ -21985,9 +21021,8 @@ Arcane Material Component: A short reed or piece of straw.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 300
-Water Walk
 
+Water Walk
 
   
 Transmutation [Water]  
@@ -22016,16 +21051,13 @@ surface at 60 feet per round until they can stand on it.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Feat) 7, Eternal Strength 7, Hades (SpC) 8, Sloth 8###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 301
-Waves of Exhaustion
 
+Waves of Exhaustion
 
   
 Necromancy  
 Level: Dread Necromancer 6, Sorcerer 7, Wizard 7, Warmage 7, Sha'ir 7, Death
 Master 7, Blighter 8, Initiate of Falazure (Feat) 7, Initiate of Gruumsh
-
 Components: V, S,  
 Casting Time: 1 standard action  
 Range: 60 ft.  
@@ -22042,9 +21074,8 @@ exhausted.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 301
-Waves of Fatigue
 
+Waves of Fatigue
 
   
 Necromancy  
@@ -22066,9 +21097,8 @@ fatigued. This spell has no effect on a creature that is already fatigued.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 301
-Web
 
+Web
 
   
 Conjuration (Creation)  
@@ -22120,9 +21150,8 @@ Material Component: A bit of spider web.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 301
-Weird
 
+Weird
 
   
 Illusion (Phantasm) [Fear, Mind-Affecting]  
@@ -22150,16 +21179,13 @@ Strength damage.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-ECS) 8###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 301
-Whirlwind
 
+Whirlwind
 
   
 Evocation [Air]  
 Level: Druid 8, Wu Jen 8, Shugenja 8 (Air), Durthan 8, Air 8, Storm (SpC) 8,
 Windstorm (SpC) 8, Weather (CD) 8, Weather (DD) 8, Storm (DCS) 8, Weather
-
 Components: V, S, DF,  
 Casting Time: 1 standard action  
 Range: Long (400 ft. + 40 ft./level)  
@@ -22190,9 +21216,8 @@ hapless souls wherever the cyclone happens to be when they are released.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 301
-Whispering Wind
 
+Whispering Wind
 
   
 Transmutation [Air]  
@@ -22227,9 +21252,8 @@ components, use command words, or activate magical effects.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 302
-Wind Walk
 
+Wind Walk
 
   
 Transmutation [Air]  
@@ -22269,15 +21293,12 @@ spell is about to end.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Air), Hexblade 3 (Arcane), Death Master 3, Sha'ir 3, Nentyar Hunter 3, Wiz###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 302
-Wind Wall
 
+Wind Wall
 
   
 Evocation [Air]  
 Level: Consecrated Harrier 2, Ranger 2, Urban Ranger 2, Cleric 3, Shugenja 3
-
 3, Sorcerer 3, Druid 3, Apostle of Peace 3, Air 2,  
 Components: V, S, M, DF,  
 Casting Time: 1 standard action  
@@ -22311,9 +21332,8 @@ Arcane Material Component: A tiny fan and a feather of exotic origin.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 302
-Wish
 
+Wish
 
   
 Universal  
@@ -22370,9 +21390,8 @@ additional 5,000 XP.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 303
-Wood Shape
 
+Wood Shape
 
   
 Transmutation  
@@ -22398,15 +21417,12 @@ moving parts simply doesn't work.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-FRCS) 7###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 303
-Word of Chaos
 
+Word of Chaos
 
   
 Evocation [Chaotic, Sonic]  
 Level: Cleric 7, Death Master 7, Chaos 7, Limbo (SpC) 7, Drow (SpC) 7, Drow
-
 Components: V,  
 Casting Time: 1 standard action  
 Range: 40 ft.  
@@ -22450,9 +21466,8 @@ Creatures whose HD exceed your caster level are unaffected by word of chaos.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 303
-Word of Recall
 
+Word of Recall
 
   
 Conjuration (Teleportation)  
@@ -22488,9 +21503,8 @@ from being teleported. Unattended, nonmagical objects receive no saving throw.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 303
-Zone of Silence
 
+Zone of Silence
 
   
 Illusion (Glamer)  
@@ -22514,9 +21528,8 @@ can still reveal what's said inside a zone of silence.
 ###END_SPELL###
 
 ###BEGIN_SPELL###
-Player's Handbook v.3.5, p. 303
-Zone of Truth
 
+Zone of Truth
 
   
 Enchantment (Compulsion) [Mind-Affecting]  
