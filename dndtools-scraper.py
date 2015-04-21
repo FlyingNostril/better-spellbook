@@ -12,6 +12,6 @@ if len(sys.argv) == 1:
     sys.exit("No file specified!")
 
 spell_index = sys.argv[1]
-index_file = file.open(spell_index)
+index_file = open(spell_index)
 for line in index_file:
-    print (line).strip()
+    print (line.strip())
