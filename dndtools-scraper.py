@@ -29,7 +29,9 @@ for line in index_text:
         elif "(" in line[:1] and ")" in line[:-1]:
            # print("Ommitting source material")
             spell_text = line[1:-3] + spell_text + "\n"
+            spell_text = "###BEGIN_SPELL###\n" + spell_text 
         elif "###" in line:
+            spell_text = spell_text + "###END_SPELL###\n"
             break
         else:
             spell_text = spell_text + line + "\n"
